@@ -10,11 +10,11 @@ With support from the Institute of Museum and Library Services [**Always Already
 
 Following the national forum, the project team will iteratively refine and extend forum outputs via 6 disciplinary and professional conferences, virtual events, and this project website. At the end of the 18 month grant period, the project will produce a library collections as data framework, use cases and user stories, functional requirements for technical solutions that support library collections as data, methods for making these types of collections more discoverable, and a summative white paper. 
 
-#h2 Resources
+#Resources
 
 [**Grant Narrative**](https://www.imls.gov/sites/default/files/grants/lg-73-16-0096-16/proposals/lg-73-16-0096-16_proposal_documents.pdf)
 
-#h2 Contact
+#Contact
 
 Thomas Padilla, University of California Santa Barbara, <thomaspadilla@ucsb.edu>
 
