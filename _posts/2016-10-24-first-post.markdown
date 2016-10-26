@@ -1,11 +1,11 @@
 ---
 layout: article
-title:  "Call for National Forum Nominations/Self-Nominations"
+title:  "Call for National Forum Nominations"
 date:   2016-10-24 17:32:06 -0400
 teaser: "Accepting Nominations"
 ---
 
-## Call for National Forum Nominations / Self-Nominations: Always Already Computational: Library Collection as Data
+## Call for National Forum Nominations: Always Already Computational: Library Collection as Data
 
 [**Always Already Computational: Library Collections as Data**](https://www.imls.gov/grants/awarded/LG-73-16-0096-16) was awarded $100,000 from the Institute of Museum and Library Services to hold a national forum under the National Digital Platform funding priority. Project activities are intended to support a strategic approach to developing, describing, providing access to, and encouraging reuse of library collections that support computationally-driven research and teaching in areas including but not limited to Digital Humanities, Public History, Digital History, data driven Journalism, Digital Social Science, and Digital Art History. The national forum will bring together an expert group of librarians, archivists, museum professionals, researchers and practitioners, and technologists for 2.5 days at the University of California Santa Barbara from **February 28 - March 3, 2017**.
 
