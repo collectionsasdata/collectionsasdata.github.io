@@ -2,6 +2,7 @@
 layout: archive
 title:  "Team"
 ---
+
 [**Thomas Padilla**](http://www.thomaspadilla.org/) (Principal Investigator) is Humanities Data Curator at the University of California Santa Barbara. Thomas is responsible for developing best practices for curating Humanities research data, producing library collections developed for computational use, shaping repository policies and features to encourage computational use of collections, fostering data curation practices across Humanities disciplines, and advancing Digital Humanities services. Thomas publishes, presents, and teaches widely on Humanities data, data curation, and data information literacy.
 
 [**Laurie Allen**](http://www.laurieallen.org/) (Co-Principal Investigator) is  Assistant Director for Digital Scholarship at the University of Pennsylvania Libraries within the Teaching, Research & Learning Directorate. The Digital Scholarship group is responsible for coordinating data curation & management activities, supporting digital humanities and digital methodologies, and undertaking digital publishing initiatives. Before joining the Penn Libraries in February 2016, Laurie worked as Coordinator for Digital Scholarship at the Haverford College Libraries. 
