@@ -16,8 +16,3 @@ Following the national forum, the project team will iteratively refine and exten
 # Contact
 
 Thomas Padilla, <thomaspadilla@ucsb.edu>
-
-
-
-
-
