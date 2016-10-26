@@ -12,11 +12,11 @@ Following the national forum, the project team will iteratively refine and exten
 
 #Resources
 
-[**Grant Narrative**](https://www.imls.gov/sites/default/files/grants/lg-73-16-0096-16/proposals/lg-73-16-0096-16_proposal_documents.pdf)
+[Grant Narrative](https://www.imls.gov/sites/default/files/grants/lg-73-16-0096-16/proposals/lg-73-16-0096-16_proposal_documents.pdf)
 
 #Contact
 
-Thomas Padilla, University of California Santa Barbara, <thomaspadilla@ucsb.edu>
+Thomas Padilla, <thomaspadilla@ucsb.edu>
 
 
 
