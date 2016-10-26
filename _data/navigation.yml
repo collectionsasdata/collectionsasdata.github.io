@@ -4,6 +4,11 @@
   url: /
   excerpt:
   image:
+  
+- title: Team
+  url: /team/
+  excerpt:
+  image:
 
 - title: Updates
   url: /updates/
