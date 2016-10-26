@@ -1,6 +1,6 @@
 ---
 layout: archive
-title:  "Always Already Computational"
+title:  ""
 ---
 
 ![library](images/library.png) ![library](images/library.png) ![library](images/library.png) ![library](images/library.png)
