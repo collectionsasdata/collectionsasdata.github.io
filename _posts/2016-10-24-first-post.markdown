@@ -13,4 +13,4 @@ During the national forum, participants will work to draft a framework that will
 
 Following the national forum, the project team will iteratively refine and extend forum outputs via 6 disciplinary and professional conferences, virtual events, and this project website. At the end of the 18 month grant period, the project will produce a library collections as data framework, use cases and user stories, functional requirements for technical solutions that support library collections as data, methods for making these types of collections more discoverable, and a summative white paper. 
 
-**Given calendars filling for Spring 2017, [**please submit nominations/self-nominations**]() by______, _/_.** 
+Given calendars filling for Spring 2017, [**please submit nominations/self-nominations**]() by______, _/_.
