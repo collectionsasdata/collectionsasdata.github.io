@@ -15,6 +15,7 @@ Following the national forum, the project team will iteratively refine and exten
 
 Given calendars filling for Spring 2017, [**please submit nominations/self-nominations**](https://docs.google.com/forms/d/e/1FAIpQLSesPxgwaDqhnbew_IWg5juTCnZVNNj5gkpCvIGwJ7F4ehfoOg/viewform) by Thursday, 11/10/2016.
 
+---
 Thomas Padilla (University of California Santa Barbara)
 
 Laurie Allen (University of Pennsylvania)
