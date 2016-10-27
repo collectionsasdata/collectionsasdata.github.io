@@ -1,7 +1,7 @@
 ---
 layout: article
 title:  "Call for Nominations: National Forum Attendance"
-date:   2016-10-26 17:32:06 -0400
+date:   2016-10-27 17:32:06 -0400
 teaser: "Accepting Nominations"
 ---
 ---
@@ -13,4 +13,4 @@ During the national forum, participants will work to draft a framework that will
 
 Following the national forum, the project team will iteratively refine and extend forum outputs via 6 disciplinary and professional conferences, virtual events, and this project website. At the end of the 18 month grant period, the project will produce a library collections as data framework, use cases and user stories, functional requirements for technical solutions that support library collections as data, methods for making these types of collections more discoverable, and a summative white paper. 
 
-Given calendars filling for Spring 2017, [**please submit nominations/self-nominations**]() by______, _/_.
+Given calendars filling for Spring 2017, [**please submit nominations/self-nominations**](https://docs.google.com/forms/d/e/1FAIpQLSesPxgwaDqhnbew_IWg5juTCnZVNNj5gkpCvIGwJ7F4ehfoOg/viewform) by Thursday, 11/10/2016.
