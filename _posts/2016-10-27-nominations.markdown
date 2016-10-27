@@ -14,3 +14,9 @@ During the national forum, participants will work to draft a framework that will
 Following the national forum, the project team will iteratively refine and extend forum outputs via 6 disciplinary and professional conferences, virtual events, and this project website. At the end of the 18 month grant period, the project will produce a library collections as data framework, use cases and user stories, functional requirements for technical solutions that support library collections as data, methods for making these types of collections more discoverable, and a summative white paper. 
 
 Given calendars filling for Spring 2017, [**please submit nominations/self-nominations**](https://docs.google.com/forms/d/e/1FAIpQLSesPxgwaDqhnbew_IWg5juTCnZVNNj5gkpCvIGwJ7F4ehfoOg/viewform) by Thursday, 11/10/2016.
+
+Thomas Padilla (University of California Santa Barbara)
+Laurie Allen (University of Pennsylvania)
+Stewart Varner (University of Pennsylvania)
+Sarah Potvin (Texas A&M University)
+Elizabeth Russey Roke (Emory University)
