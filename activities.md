@@ -3,5 +3,5 @@ layout: archive
 title:  "Activities"
 ---
 ---
-**National Forum**, University of California Santa Barbara, Marc 1-3 2017
-**Open Forum Session - Always Already Computational**, [Society of American Archivists](http://www.thomaspadilla.org/), July 23-29, 2017
+**National Forum**, University of California Santa Barbara, Marc 1-3 2017<br/>
+**Open Forum Session**, [Society of American Archivists](http://www.thomaspadilla.org/), July 23-29, 2017
