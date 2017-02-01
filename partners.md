@@ -7,6 +7,7 @@ title:  "Partners"
 ---
 ---
 [**Jefferson Bailey**](http://www.jeffersonbailey.com/)
+
 Head of Web Archiving Programs, Internet Archive
 
 [**Tanya Clement**](http://tanyaclement.org/)
