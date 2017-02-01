@@ -9,6 +9,11 @@
   url: /team/
   excerpt:
   image:
+  
+ - title: Activities
+  url: /activities/
+  excerpt:
+  image:
 
 - title: Updates
   url: /updates/
