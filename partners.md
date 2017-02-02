@@ -3,7 +3,7 @@ layout: archive
 title:  "Partners"
 ---
 ---
-*National Forum*
+*National Forum Attendees*
 
 [**Jefferson Bailey**](http://www.jeffersonbailey.com/)<br/>
 Head of Web Archiving Programs, Internet Archive
