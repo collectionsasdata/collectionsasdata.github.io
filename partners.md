@@ -76,5 +76,8 @@ Digital Humanities Librarian, University of Iowa
 [**Timothy St. Onge**](http://timstonge.weebly.com/)<br/>
 Cartographer, Library of Congress
 
+[**Santi Thompson**](http://orcid.org/0000-0002-0337-6439)<br/>
+Head of Digital Research Services, University of Houston
+
 [**Kate Zwaard**](https://www.linkedin.com/in/kzwaard)<br/>
 Head of National Digital Initiatives, Library of Congress
