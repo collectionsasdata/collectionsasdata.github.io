@@ -8,7 +8,7 @@ title:  "Partners"
 Head of Web Archiving Programs, Internet Archive
 
 [**Alexandra Chassanoff**](https://libraries.mit.edu/news/alexandra-chassanoff/22151/)<br/>
-Postdoctoral Fellow in Software Curation, Massachusetts Institute of Technology 
+Software Curation Postdoctoral Fellow, Massachusetts Institute of Technology 
 
 [**Tanya Clement**](http://tanyaclement.org/)<br/>
 Assistant Professor of Information, University of Texas Austin 
