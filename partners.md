@@ -4,6 +4,9 @@ title:  "Partners"
 ---
 ---
 
+[**John Ajao**](https://www.linkedin.com/in/johnajao//)<br/>
+Director Systems and Repository Operations, University of California Santa Barbara
+
 [**Jefferson Bailey**](http://www.jeffersonbailey.com/)<br/>
 Head of Web Archiving Programs, Internet Archive
 
