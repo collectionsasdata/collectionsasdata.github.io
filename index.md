@@ -9,11 +9,11 @@ With support from the Institute of Museum and Library Services, [**Always Alread
 
 Following the national forum, the project team will iteratively refine and extend forum outputs via 6 disciplinary and professional conferences, virtual events, and this project website. At the end of the 18 month grant period, the project will produce a library collections as data framework, use cases and user stories, functional requirements for technical solutions that support library collections as data, methods for making these types of collections more discoverable, and a summative white paper. 
 
-# Code of Conduct
+# code of conduct
 
 All project activity, both in person and online, aims to foster a welcoming and inclusive experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, nationality, or political beliefs. Harassment of participants will not be tolerated in any form. Harassment includes any behavior that participants find intimidating, hostile or offensive. Participants asked to stop any harassing behavior are expected to comply immediately. Please contact any member of the project team if you have concerns.
 
-# Questions
+# contact
 
 Thomas Padilla, <thomaspadilla@ucsb.edu>
 
