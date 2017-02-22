@@ -41,7 +41,7 @@ Research Software Architect, University of Maryland
 Research Data Management/Curation Lead & Co-Director University Digital Conservancy, University of Minnesota
 
 [**Matthew Lincoln**](http://matthewlincoln.net/)<br/>
-Data Research Specialist, Getty Museum
+Data Research Specialist, Getty Research Institute
 
 [**Alan Liu**](http://liu.english.ucsb.edu/)<br/>
 Distinguished Professor of English, University of California Santa Barbara
