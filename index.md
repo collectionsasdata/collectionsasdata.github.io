@@ -13,6 +13,10 @@ Following the national forum, the project team will iteratively refine and exten
 
 [Grant Narrative](https://www.imls.gov/sites/default/files/grants/lg-73-16-0096-16/proposals/lg-73-16-0096-16_proposal_documents.pdf)
 
+# Code of Conduct
+
+All project activity, both in person and online, aims to foster a welcoming and inclusive experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, nationality, or political beliefs. Harassment of participants will not be tolerated in any form. Harassment includes any behavior that participants find intimidating, hostile or offensive. Participants asked to stop any harassing behavior are expected to comply immediately. Please contact any member of the project team if you have concerns.
+
 # Contact
 
 Thomas Padilla, <thomaspadilla@ucsb.edu>
