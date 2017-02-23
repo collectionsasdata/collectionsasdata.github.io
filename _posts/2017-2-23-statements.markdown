@@ -13,7 +13,7 @@ Perspectives represented in the position statements highlight the many direction
 
 Below you will find the compiled position statements. As always, if the work of this project inspires you and you are looking for a way to get involved please do reach out. 
 
-[**Always Already Computational - National Forum Position Statements**](https://github.com/collectionsasdata/collectionsasdata.github.io/blob/master/aac_positionstatements.pdf) 
+[Always Already Computational - National Forum Position Statements](https://github.com/collectionsasdata/collectionsasdata.github.io/blob/master/aac_positionstatements.pdf) 
 ---
 ---
 Thomas Padilla (University of California Santa Barbara)
