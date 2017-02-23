@@ -1,6 +1,6 @@
 ---
 layout: article
-title:  "Always Already Computational - Taking Position"
+title:  "Taking Position"
 date:   2017-2-23 
 teaser: "Taking Position"
 ---
