@@ -5,9 +5,11 @@ title:  "Always Already Computational"
 ---
 ![library](images/library.png) ![library](images/library.png) ![library](images/library.png) ![library](images/library.png)
 
-With support from the Institute of Museum and Library Services, **Collections as Data** aims to foster a strategic approach to developing, describing, providing access to, and encouraging reuse of collections that support computationally-driven research and teaching in areas including but not limited to Digital Humanities, Public History, Digital History, data driven Journalism, Digital Social Science, and Digital Art History.  In the first stage, a national forum will bring together an expert group of librarians, archivists, museum professionals, researchers and practitioners, and technologists for 2.5 days at the University of California Santa Barbara from March 1 - March 3, 2017. 
+**Collections as Data** aims to foster a strategic approach to developing, describing, providing access to, and encouraging reuse of collections that support computationally-driven research and teaching in areas including but not limited to Digital Humanities, Public History, Digital History, data driven Journalism, Digital Social Science, and Digital Art History.  In the first stage, a national forum will bring together an expert group of librarians, archivists, museum professionals, researchers and practitioners, and technologists for 2.5 days at the University of California Santa Barbara from March 1 - March 3, 2017. 
 
 Following the national forum, the project team will iteratively refine and extend forum outputs via 6 disciplinary and professional conferences, virtual events, and this project website. At the end of the 18 month grant period, the project will produce a collections as data framework, use cases and user stories, functional requirements for technical solutions that support collections as data, methods for making these types of collections more discoverable, and a summative white paper. 
+
+This initiative is supported by the Institute of Museum and Library Services.  
 
 # Contact
 
