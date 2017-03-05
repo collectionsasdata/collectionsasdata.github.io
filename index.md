@@ -9,7 +9,7 @@ title:  "Always Already Computational"
 
 In the first stage, a national forum brought together an expert group of librarians, archivists, museum professionals, researchers and practitioners, and technologists for 2.5 days at the University of California Santa Barbara to **(1)** articulate a statement that seeks to represent collections as data values, principles and ethics, **(2)** collections as data prototypes, **(3)** collections as data personas and user stories that span stewards and users, and **(4)** a model for open and broad based community development of collections as data. 
 
-Moving forward, the project team will iteratively refine and extend Collections as Data via 6 disciplinary and professional conferences, virtual events, and this project website. The project will produce a collections as data framework, personas, use cases and user stories, functional requirements for technical solutions that support collections as data, and methods for making these types of collections more discoverable. 
+Moving forward, the project team will iteratively refine and extend collections as data work via 6 disciplinary and professional conferences, virtual events, and this project site. Collections as Data will produce a collections as data framework, personas, use cases and user stories, functional requirements for technical solutions that support collections as data, and methods for making these types of collections more discoverable. 
 
 This initiative is supported by the Institute of Museum and Library Services.  
 
