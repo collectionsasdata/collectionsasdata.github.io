@@ -1,6 +1,6 @@
 ---
 layout: archive
-title:  "Activities"
+title:  "Events"
 ---
 ---
 **National Forum**, University of California Santa Barbara, March 1-3 2017<br/>
