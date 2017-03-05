@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: Always Already Computational - Library Collections as Data
+title: Always Already Computational - Collections as Data
 email: thomaspadilla@ucsb.edu
-description: An IMLS funded project to create a framework for dealing with library collections as data, with a fuller description to be written by Thomas.
+description: An IMLS funded project to create a framework for dealing with collections as data.
 url: https://collectionsasdata.github.io # the base hostname & protocol for your site
 
 logo: # 120x120 px default image used for Twitter summary card
