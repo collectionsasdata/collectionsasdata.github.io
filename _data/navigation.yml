@@ -15,8 +15,13 @@
   excerpt:
   image:
   
-- title: Activities
-  url: /activities/
+- title: Events
+  url: /events/
+  excerpt:
+  image:
+  
+- title: Resources
+  url: /resources/
   excerpt:
   image:
 
