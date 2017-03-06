@@ -7,7 +7,7 @@ title:  "Always Already Computational"
 
 **Collections as Data** aims to foster a strategic approach to developing, describing, providing access to, and encouraging reuse of collections that support computationally-driven research and teaching in areas including but not limited to Digital Humanities, Public History, Digital History, data driven Journalism, Digital Social Science, and Digital Art History. 
 
-The project team is working to iteratively refine and extend collections as data in collaboration with partners across a national collections as data forum, 6 disciplinary and professional conferences, virtual events, and this project site. This project will produce a collections as data framework, use cases and user stories, functional requirements for technical solutions that support collections as data, methods for making these types of collections more discoverable, and a summative white paper.
+The Collections as Data project team is iteratively refining and extending collections as data in collaboration with partners across a national collections as data forum, 6 disciplinary and professional conferences, virtual events, and this project site. This effort will produce a collections as data framework, use cases and user stories, and functional requirements that support collections as data infrastructure development.
  
 # Get in touch 
 
