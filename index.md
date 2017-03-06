@@ -1,3 +1,4 @@
+<script async defer src="https://hypothes.is/embed.js"></script>
 ---
 layout: archive
 title:  "Always Already Computational"
