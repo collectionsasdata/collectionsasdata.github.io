@@ -23,6 +23,6 @@ All project activity, both in person and online, aims to foster a welcoming and 
 
 
 ---
-This initiative is supported by the Institute of Museum and Library Services.  
+This effort is supported by the Institute of Museum and Library Services.  
 
 
