@@ -3,7 +3,6 @@ layout: archive
 title:  "Partners"
 ---
 ---
-**_National Forum_**
 
 [**John Ajao**](https://www.linkedin.com/in/johnajao//)<br/>
 Director Systems and Repository Operations, University of California Santa Barbara
