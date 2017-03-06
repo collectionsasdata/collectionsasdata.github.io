@@ -7,7 +7,7 @@ title:  "Always Already Computational"
 
 **Collections as Data** aims to foster a strategic approach to developing, describing, providing access to, and encouraging reuse of collections that support computationally-driven research and teaching in areas including but not limited to Digital Humanities, Public History, Digital History, data driven Journalism, Digital Social Science, and Digital Art History. 
 
-The first stage has concluded. A national forum brought together an expert group of librarians, archivists, museum professionals, researchers and practitioners, and technologists March 1-3, 2017 at the University of California Santa Barbara. National forum partners initiated development of (1) a statement that represents collections as data principles and ethics, (2) collections as data prototypes, (3) collections as data personas, and (4) a model for open community development of collections as data. 
+The first stage has concluded. A national forum brought together an expert group of librarians, archivists, museum professionals, researchers and practitioners, and technologists March 1-3, 2017 at the University of California Santa Barbara. National forum partners initiated  (1) a statement that represents collections as data principles and ethics, (2) collections as data prototypes, (3) collections as data personas, and (4) strategies for engaging multiple communities in collections as data development. 
 
 The second stage has begun. The project team is working to iteratively refine and extend collections as data work in collaboration with partners across 6 disciplinary and professional conferences, virtual events, and this project site. Collections as Data is always on the lookout for new partners. Please get in touch if you have interest!
  
