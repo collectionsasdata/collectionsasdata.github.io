@@ -7,7 +7,7 @@ title:  "Always Already Computational"
 
 [**Collections as Data**](https://www.imls.gov/grants/awarded/LG-73-16-0096-16) aims to foster a strategic approach to developing, describing, providing access to, and encouraging reuse of collections that support computationally-driven research and teaching in areas including but not limited to Digital Humanities, Public History, Digital History, data driven Journalism, Digital Social Science, and Digital Art History. 
 
-The project team and partners will iteratively refine and extend collections as data work in collaboration with partners across 6 disciplinary and professional conferences, syncrhonous and asynchronous online events, this site, and other venues as they arise. This effort will produce a collections as data framework, use cases and user stories, and functional requirements that support collections as data infrastructure development.
+The project team and partners will iteratively refine and extend collections as data work in collaboration with partners across 6 disciplinary and professional conferences, synchronous and asynchronous online events, this site, and other venues as they arise. This effort will produce a collections as data framework, use cases and user stories, and functional requirements that support collections as data infrastructure development.
  
 # Get in touch 
 
