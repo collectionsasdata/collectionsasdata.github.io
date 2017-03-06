@@ -9,11 +9,11 @@ title:  "Always Already Computational"
 
 Partners will iteratively refine and extend collections as data work across 6 disciplinary and professional conferences, synchronous and asynchronous online events, this site, and other venues as they arise. This effort will produce a collections as data framework, use cases and user stories, and functional requirements that support collections as data infrastructure development.
  
-# contact  
+# Contact  
 
 Thomas Padilla, <thomaspadilla@ucsb.edu>
 
-# code of conduct
+# Code of Conduct
 
 All project activity, both in person and online, aims to foster a welcoming and inclusive experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, nationality, or political beliefs. Harassment of participants will not be tolerated in any form. Harassment includes any behavior that participants find intimidating, hostile or offensive. Participants asked to stop any harassing behavior are expected to comply immediately. Please contact any member of the project team if you have concerns.
 
