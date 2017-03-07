@@ -21,5 +21,4 @@ All project activity, both in person and online, aims to foster a welcoming and 
 ---
 This effort is supported by the Institute of Museum and Library Services, [LG-73-16-0096-16](https://www.imls.gov/grants/awarded/LG-73-16-0096-16)  
 
-<script async defer src="https://hypothes.is/embed.js"></script>
 
