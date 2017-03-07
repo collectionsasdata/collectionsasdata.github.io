@@ -1,0 +1,8 @@
+---
+layout: archive
+title:  "Statement"
+---
+---
+
+
+<script async defer src="https://hypothes.is/embed.js"></script>
