@@ -50,6 +50,9 @@
       transform: translateX(em(-900)); /* reset slide position */
     }
   }
+  @include media($medium) {
+    display: none;
+  }
 }
 
 /*
