@@ -11,4 +11,4 @@ title:  "Events"
 
 **Open Forum Session**, [Society of American Archivists](http://www.thomaspadilla.org/), July 23-29, 2017
 
-**Shaping Humanities Data Preconference Workshop**, [Digital Humanities 2017](https://dh2017.adho.org/), August 8-11, 2017
+**Shaping Humanities Data Preconference**, [Digital Humanities 2017](https://dh2017.adho.org/), August 8-11, 2017
