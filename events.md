@@ -7,6 +7,8 @@ title:  "Events"
 
 **LDCX**, Stanford University, March 27-29, 2017
 
+[**csvconf**](https://csvconf.com/), May 2-3, 2017
+
 **Texas Conference on Digital Libraries**, May 25, 2017
 
 **Open Forum Session**, [Society of American Archivists](http://www.thomaspadilla.org/), July 23-29, 2017
