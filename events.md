@@ -9,7 +9,7 @@ title:  "Events"
 
 [**csvconf**](https://csvconf.com/), May 2-3, 2017
 
-**Texas Conference on Digital Libraries**, May 25, 2017
+[**Texas Conference on Digital Libraries**](https://tcdl-ocs-tdl.tdl.org/tcdl/index.php/TCDL/TCDL2017), May 25, 2017
 
 **Open Forum Session**, [Society of American Archivists](http://www.thomaspadilla.org/), July 23-29, 2017
 
