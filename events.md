@@ -11,6 +11,6 @@ title:  "Events"
 
 [**Texas Conference on Digital Libraries**](https://tcdl-ocs-tdl.tdl.org/tcdl/index.php/TCDL/TCDL2017), May 25, 2017
 
-**Open Forum Session**, [Society of American Archivists](http://www.thomaspadilla.org/), July 23-29, 2017
+**Open Forum Session**, [Society of American Archivists](http://files.archivists.org/conference/2017/AM17_Preliminary_Flyer.pdf), July 23-29, 2017
 
 **Shaping Humanities Data Preconference**, [Digital Humanities 2017](https://dh2017.adho.org/), August 8-11, 2017
