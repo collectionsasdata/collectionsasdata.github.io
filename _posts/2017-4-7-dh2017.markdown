@@ -6,7 +6,10 @@ teaser: "Shaping Humanities Data: Use, Reuse, and Paths Toward Computationally A
 ---
 ---
 [Digital Humanities 2017](https://dh2017.adho.org/)
-Montreal, Canada, August 8-11, 2017
+
+Montreal, Canada, 
+
+August 8-11, 2017
 
 **Shaping Humanities Data: Use, Reuse, and Paths Toward Computationally Amenable Cultural Heritage Collections**
 
