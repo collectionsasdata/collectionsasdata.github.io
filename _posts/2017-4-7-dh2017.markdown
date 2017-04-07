@@ -1,7 +1,7 @@
 ---
 layout: article
 title:  "DH2017 Workshop CFP"
-date:   2017-3-9 
+date:   2017-4-7 
 teaser: "Shaping Humanities Data: Use, Reuse, and Paths Toward Computationally Amenable Cultural Heritage Collections"
 ---
 ---
