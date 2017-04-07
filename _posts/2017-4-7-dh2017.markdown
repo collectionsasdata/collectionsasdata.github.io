@@ -38,7 +38,7 @@ Ian Milligan, University of Waterloo
 
 Gimena Del Rio Riande, Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET)- University of Buenos Aires
 
-Laurent Romary, DARIAH
+Laurent Romary, Inria & DARIAH
 
 Henriette Roued-Cunliffe, University of Copenhagen 
 
