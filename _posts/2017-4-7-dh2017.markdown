@@ -5,6 +5,7 @@ date:   2017-4-7
 teaser: "Shaping Humanities Data: Use, Reuse, and Paths Toward Computationally Amenable Cultural Heritage Collections"
 ---
 ---
+[Digital Humanities 2017](https://collectionsasdata.github.io/_posts/dh2017.png)
 
 **Shaping Humanities Data: Use, Reuse, and Paths Toward Computationally Amenable Cultural Heritage Collections**
 
