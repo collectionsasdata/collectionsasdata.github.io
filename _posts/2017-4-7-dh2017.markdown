@@ -6,9 +6,7 @@ teaser: "Shaping Humanities Data: Use, Reuse, and Paths Toward Computationally A
 ---
 ---
 
-#DH2017 Workshop CFP#
-
-##_Shaping Humanities Data: Use, Reuse, and Paths Toward Computationally Amenable Cultural Heritage Collections_##
+*Shaping Humanities Data: Use, Reuse, and Paths Toward Computationally Amenable Cultural Heritage Collections*
 
 Galleries, libraries, archives and museums (GLAMs) have been building digital collections for decades. Approaches developed to provide access to these collections often emulate analog research experiences that focus on supporting single object interactions and features like virtual "page" turners. While approaches of this kind have been very valuable for some kinds of scholarship, researchers and instructors seeking to leverage computation can find it difficult to work with collections developed in this vein. One barrier to developing approaches that better support these researchers is an incomplete understanding of how humanists, among others, are using and reusing cultural heritage data - and what they may need moving forward. [Collections as Data](https://collectionsasdata.github.io/) is one of a range of efforts encouraging cultural heritage organizations to develop collections and systems that are more amenable to emerging computational methods and tools. Beyond simply designing-to-fit, the movement towards computationally amenable collections provides an opportunity to  reframe, enrich, and/or contextualize collections in a manner that seeks to avoid replication of long standing biases inherent in cultural heritage collection practice. In this day-long Digital Humanities 2017 pre-conference workshop, we aim to engage directly with research and pedagogical practice that draws upon digital collection use. This workshop will ultimately inform the development of recommendations that aim to support cultural heritage community efforts to make collections available as data.
 
