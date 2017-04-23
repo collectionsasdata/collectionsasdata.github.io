@@ -18,13 +18,13 @@ title:  "Events"
 ---
 **Planned**
 
-Digital Library Federation 2017
+Digital Library Federation, 2017
 
 American Historical Assocation, 2018
 
 Modern Language Assocation, 2018
 
-Code4lib 2018
+Code4lib, 2018
 
 Open Repositories, 2018 
 
