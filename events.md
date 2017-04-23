@@ -14,3 +14,13 @@ title:  "Events"
 **Noon-time forum**, [Society of American Archivists](http://files.archivists.org/conference/2017/AM17_Preliminary_Flyer.pdf), July 25, 2017
 
 [**Shaping Humanities Data Preconference**](https://collectionsasdata.github.io/dh2017/), Digital Humanities 2017, August 7, 2017
+
+---
+---
+**Planned**
+Digital Library Federation 2017
+American Historical Assocation, 2018
+Modern Language Assocation, 2018
+Open Repositories, 2018 
+Code4lib 2018
+Digital Library Federation, 2018
