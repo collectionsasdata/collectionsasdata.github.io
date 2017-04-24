@@ -7,7 +7,7 @@ title:  "Events"
 
 **LDCX**, Stanford University, March 27-29, 2017
 
-[**csvconf**](https://csvconf.com/), May 2-3, 2017
+[**csvconf**](https://github.com/csvconf/data-tables.csv/blob/master/themes/cultural-heritage-data.md), May 2-3, 2017
 
 [**Texas Conference on Digital Libraries**](https://tcdl-ocs-tdl.tdl.org/tcdl/index.php/TCDL/TCDL2017), May 25, 2017
 
