@@ -9,7 +9,7 @@ title:  "Always Already Computational"
 
 Partners will iteratively refine and extend collections as data work across 6 disciplinary and professional conferences, synchronous and asynchronous online events, this site, and other venues as they arise. This effort will produce a collections as data framework, use cases and user stories, and functional requirements that support collections as data infrastructure development.
 
-Join the [**Collections as Data google group**](https://groups.google.com/forum/#!forum/collectionsasdata) to connect with others on collections as data related topics and project activities. 
+Stay up to date with project activities and connect with others on collections as data related topics via the [**Collections as Data google group**](https://groups.google.com/forum/#!forum/collectionsasdata). 
  
 # Contact  
 
