@@ -6,10 +6,8 @@ title:  "The Santa Barbara Statement on Collections as Data"
 ***Learn more about the statement.** 
 
 *Comments on the statement are encouraged. Highlight any portion of the text to enter a comment. If you’d rather send comments and suggestions directly, please submit via [**this form**](https://docs.google.com/forms/d/e/1FAIpQLScomC9tex3RHMQRTwOLfxSRFq14i5nnov7Km149qvCUO7JDpA/viewform?usp=sf_link). Alternatively, comments and discussion are welcome on the [**Collections as Data Google Group**](https://groups.google.com/forum/#!forum/collectionsasdata). The first statement development period will run through summer 2017. The next version of the statement will be shared by September 2017.*
-
 ---
-![](http://collectionsasdata.github.io/affinity.gif)
-*Collections as Data National Forum, 3.3.17*
+## The Santa Barbara Statement on Collection as Data 
 
 What are “collections as data”? Who are they for? Why are they needed? What values guide their development? The Santa Barbara Statement on Collections as Data poses these questions and suggests a set of principles for thinking through them, as part of a community effort to empower cultural heritage institutions to think of collections as data and consequently to explore what might be possible if cultural heritage seen in this light was more readily open to computation. 
 
@@ -19,7 +17,7 @@ While the specifics of how to develop and provide access to collections as data 
 
 Ethical concerns are integral to collections as data. Collections as data should make a commitment to openness. At the same time, care must be taken to comply with legal requirements, cultural norms, and the values of vulnerable groups. The scale of some collections may also obfuscate what is hidden or missing in the histories they are perceived to represent. Cultural heritage institutions must be mindful of these absences and plan to work against their repetition. Documentation should be informed by archival principles and emergent reproducibility practice to ensure that users have the information they need to work with collections responsibly. 
 
-##Principles## 
+## Principles 
 
 1.**Collections as data development is a work in progress.** Work in progress status can be seen as a virtue. Iteration implies productive friction across a range of perspectives geared toward encouraging computational use of collections, development of internal and external collaborations, and alignment between traditional and emerging services. 
 
