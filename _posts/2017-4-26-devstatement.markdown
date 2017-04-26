@@ -1,7 +1,7 @@
 ---
 layout: article
 title:  "Developing The Santa Barbara Statement on Collections as Data"
-date:   2016-4-26 
+date:   2017-4-26 
 teaser: "The Santa Barbara Statement on Collections as Data"
 ---
 ---
