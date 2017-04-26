@@ -21,10 +21,17 @@ We seek to collaboratively develop the statement with partners coming from diffe
 
 Please join us in developing the [**The Santa Barbara Statement on Collections as Data**](https://collectionsasdata.github.io/statement/). 
 
+---
+---
 Thomas Padilla, University of California Santa Barbara
+
 Laurie Allen, University of Pennsylvania
+
 Stewart Varner, University of Pennsylvania
+
 Sarah Potvin, Texas A&M University
+
 Elizabeth Russey Roke, Emory University
+
 Hannah Frost, Stanford University 
 
