@@ -2,13 +2,12 @@
 layout: archive
 title:  "The Santa Barbara Statement on Collections as Data"
 ---
----
+
 ***Learn more about the statement.** 
 
 *Comments on the statement are encouraged. Highlight any portion of the text to enter a comment. If you’d rather send comments and suggestions directly, please submit via [**this form**](https://docs.google.com/forms/d/e/1FAIpQLScomC9tex3RHMQRTwOLfxSRFq14i5nnov7Km149qvCUO7JDpA/viewform?usp=sf_link). Alternatively, comments and discussion are welcome on the [**Collections as Data Google Group**](https://groups.google.com/forum/#!forum/collectionsasdata). The first statement development period will run through summer 2017. The next version of the statement will be shared by September 2017.*
 
 ---
-
 What are “collections as data”? Who are they for? Why are they needed? What values guide their development? The Santa Barbara Statement on Collections as Data poses these questions and suggests a set of principles for thinking through them, as part of a community effort to empower cultural heritage institutions to think of collections as data and consequently to explore what might be possible if cultural heritage seen in this light was more readily open to computation. 
 
 The concept of collections as data emerges at -- and is grounded by -- a particular moment in the recent history of cultural heritage institutions. For decades, cultural heritage institutions have been building digital collections. Simultaneously, researchers have drawn upon computational means to ask questions and look for patterns. This work goes under a wide variety of names including but not limited to text mining, data visualization, mapping, image analysis, audio analysis, and network analysis. With notable exceptions like the [**Hathitrust Research Center**](https://analytics.hathitrust.org/), [**the National Library of the Netherlands Data Services & APIs**](https://www.kb.nl/en/resources-research-guides/data-services-apis), the Library of Congress’ [**Chronicling America**](http://chroniclingamerica.loc.gov/about/api/), and the [**British Library**](http://www.bl.uk/subjects/digital-scholarship), cultural heritage institutions have rarely built digital collections or designed access with the aim to support computational use. Thinking about collections as data signals an intention to change that, and efforts like the Library of Congress’ [**Collections as Data: Stewardship and Use Models to Enhance Access**](http://digitalpreservation.gov/meetings/dcs16.html) and the multinational [**Digging into Data**](https://diggingintodata.org/) suggest that a broader community shift intentionally scoped to institutions large and small comes at an opportune time.
@@ -19,25 +18,25 @@ Ethical concerns are integral to collections as data. Collections as data should
 
 ## Principles 
 
-1.**Collections as data development is a work in progress.** Work in progress status can be seen as a virtue. Iteration implies productive friction across a range of perspectives geared toward encouraging computational use of collections, development of internal and external collaborations, and alignment between traditional and emerging services. 
+1. **Collections as data development is a work in progress.** Work in progress status can be seen as a virtue. Iteration implies productive friction across a range of perspectives geared toward encouraging computational use of collections, development of internal and external collaborations, and alignment between traditional and emerging services. 
 
-2.**Collections as data development aims to encourage computational use of digitized and born digital collections.** By conceiving of, packaging, and making collections available as data, cultural heritage institutions work to expand the set of possible opportunities for engaging collections. 
+2. **Collections as data development aims to encourage computational use of digitized and born digital collections.** By conceiving of, packaging, and making collections available as data, cultural heritage institutions work to expand the set of possible opportunities for engaging collections. 
 
-3.**Ethical commitments guide collections as data development.** Ethical commitments are made in light of historic and contemporary inequities represented in collection scope, description, and access. Commitments should be documented and readily accessible to those engaging with collections. Commitments should serve to respect the rights and needs of the communities who create collections as well as the communities that use those collections. 
+3. **Ethical commitments guide collections as data development.** Ethical commitments are made in light of historic and contemporary inequities represented in collection scope, description, and access. Commitments should be documented and readily accessible to those engaging with collections. Commitments should serve to respect the rights and needs of the communities who create collections as well as the communities that use those collections. 
 
-4.**Collections as data stewards aim to lower barriers to use.** A range of accessible instructional materials and documentation should be developed to support collections as data use. These materials should be scoped to varying levels of technical expertise. Materials should also be scoped to a range of disciplinary, professional, creative, artistic, and educational contexts.
+4. **Collections as data stewards aim to lower barriers to use.** A range of accessible instructional materials and documentation should be developed to support collections as data use. These materials should be scoped to varying levels of technical expertise. Materials should also be scoped to a range of disciplinary, professional, creative, artistic, and educational contexts.
 
-5.**The needs of specific communities inform collections as data development.** Concrete strategies should be pursued to engage community need. Multiple approaches to data development and access are encouraged. 
+5. **The needs of specific communities inform collections as data development.** Concrete strategies should be pursued to engage community need. Multiple approaches to data development and access are encouraged. 
 
-6.**Shared collections as data documentation helps others find a path to doing the work.** In order for a range of individuals and institutions to engage collections as data work it must be possible to access documentation that demonstrates how the work is done. Documentation should be publicly accessible by default. Draft documentation is better than no documentation. Examples of documentation include workflows and code. 
+6. **Shared collections as data documentation helps others find a path to doing the work.** In order for a range of individuals and institutions to engage collections as data work it must be possible to access documentation that demonstrates how the work is done. Documentation should be publicly accessible by default. Draft documentation is better than no documentation. Examples of documentation include workflows and code. 
 
-7.**Whenever possible, collections as data should be made openly accessible.** Terms of use should align with efforts like Creative Commons, RightsStatements.org, and Traditional Knowledge licenses where appropriate. 
+7. **Whenever possible, collections as data should be made openly accessible.** Terms of use should align with efforts like Creative Commons, RightsStatements.org, and Traditional Knowledge licenses where appropriate. 
 
-8.**Collections as data development works toward interoperability.** Working toward interoperability entails alignment with emerging and/or established community standards and infrastructure. Working toward interoperability eases integration with centralized as well as distributed infrastructure. Interoperability facilitates collections as data discovery, access, and use. 
+8. **Collections as data development works toward interoperability.** Working toward interoperability entails alignment with emerging and/or established community standards and infrastructure. Working toward interoperability eases integration with centralized as well as distributed infrastructure. Interoperability facilitates collections as data discovery, access, and use. 
 
-9.**Collections as data stewards work to support the integrity of collections.** Claims based on collections as data depend on their integrity. Integrity is safeguarded by fault-tolerant systems and data provenance. Provenance reflects how data were created, and modified as well as the scope, and intended use of the data. 
+9. **Collections as data stewards work to support the integrity of collections.** Claims based on collections as data depend on their integrity. Integrity is safeguarded by fault-tolerant systems and data provenance. Provenance reflects how data were created, and modified as well as the scope, and intended use of the data. 
 
-10.**Collections as data may encompass or be derived from collections.** Data as well as the data that describe those data are considered within scope ( e.g. images, audio, video - as well as - metadata, finding aids, catalogs). Data resulting from the analysis of those data are also included. 
+10. **Collections as data may encompass or be derived from collections.** Data as well as the data that describe those data are considered within scope ( e.g. images, audio, video - as well as - metadata, finding aids, catalogs). Data resulting from the analysis of those data are also included. 
 
 
 <script async defer src="https://hypothes.is/embed.js"></script>
