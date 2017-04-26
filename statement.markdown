@@ -8,7 +8,7 @@ title:  "The Santa Barbara Statement on Collections as Data"
 *Comments on the statement are encouraged. Highlight any portion of the text to enter a comment. If you’d rather send comments and suggestions directly, please submit via [**this form**](https://docs.google.com/forms/d/e/1FAIpQLScomC9tex3RHMQRTwOLfxSRFq14i5nnov7Km149qvCUO7JDpA/viewform?usp=sf_link). Alternatively, comments and discussion are welcome on the [**Collections as Data Google Group**](https://groups.google.com/forum/#!forum/collectionsasdata). The first statement development period will run through summer 2017. The next version of the statement will be shared by September 2017.*
 
 ---
-[[http://collectionsasdata.github.io/affinity.gif]]
+![](http://collectionsasdata.github.io/affinity.gif)
 *Collections as Data National Forum, 3.3.17*
 
 What are “collections as data”? Who are they for? Why are they needed? What values guide their development? The Santa Barbara Statement on Collections as Data poses these questions and suggests a set of principles for thinking through them, as part of a community effort to empower cultural heritage institutions to think of collections as data and consequently to explore what might be possible if cultural heritage seen in this light was more readily open to computation. 
