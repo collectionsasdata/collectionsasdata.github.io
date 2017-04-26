@@ -3,9 +3,9 @@ layout: archive
 title:  "The Santa Barbara Statement on Collections as Data"
 ---
 ---
-*Learn more about the statement. 
+*Learn more about the statement.* 
 
-*Comments on the statement are encouraged. Highlight any portion of the text to enter a comment. If you’d rather send comments and suggestions directly, please submit via [this form](https://docs.google.com/forms/d/e/1FAIpQLScomC9tex3RHMQRTwOLfxSRFq14i5nnov7Km149qvCUO7JDpA/viewform?usp=sf_link). Alternatively, comments and discussion are welcome on the [Collections as Data Google Group](https://groups.google.com/forum/#!forum/collectionsasdata). The first statement development period will run through summer 2017. The next version of the statement will be shared by September 2017.
+*Comments on the statement are encouraged. Highlight any portion of the text to enter a comment. If you’d rather send comments and suggestions directly, please submit via [this form](https://docs.google.com/forms/d/e/1FAIpQLScomC9tex3RHMQRTwOLfxSRFq14i5nnov7Km149qvCUO7JDpA/viewform?usp=sf_link). Alternatively, comments and discussion are welcome on the [Collections as Data Google Group](https://groups.google.com/forum/#!forum/collectionsasdata). The first statement development period will run through summer 2017. The next version of the statement will be shared by September 2017.*
 
 ---
 [[affinity.gif]]
