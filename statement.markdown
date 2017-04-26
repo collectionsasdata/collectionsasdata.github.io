@@ -38,5 +38,11 @@ Ethical concerns are integral to collections as data. Collections as data should
 
 10. **Collections as data may encompass or be derived from collections.** Data as well as the data that describe those data are considered within scope ( e.g. images, audio, video - as well as - metadata, finding aids, catalogs). Data resulting from the analysis of those data are also included. 
 
+---
+
+*Code of Conduct*
+
+*All project activity, both in person and online, aims to foster a welcoming and inclusive experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, nationality, or political beliefs. Harassment of participants will not be tolerated in any form. Harassment includes any behavior that participants find intimidating, hostile or offensive. Participants asked to stop any harassing behavior are expected to comply immediately. Please contact any member of the project team if you have concerns.*
+
 
 <script async defer src="https://hypothes.is/embed.js"></script>
