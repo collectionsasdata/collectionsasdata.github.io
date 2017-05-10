@@ -11,7 +11,7 @@ title:  "Events"
 
 [**Texas Conference on Digital Libraries**](https://tcdl-ocs-tdl.tdl.org/tcdl/index.php/TCDL/TCDL2017), May 25, 2017
 
-**Noon-time forum**, [Society of American Archivists](http://files.archivists.org/conference/2017/AM17_Preliminary_Flyer.pdf), July 25, 2017
+**Noon-time forum**, [Society of American Archivists](http://files.archivists.org/conference/2017/AM17_Preliminary_Flyer.pdf), July 27, 2017
 
 [**Shaping Humanities Data Preconference**](https://collectionsasdata.github.io/dh2017/), Digital Humanities 2017, August 7, 2017
 
