@@ -13,12 +13,12 @@ title:  "Events"
 
 **Noon-time forum**, [Society of American Archivists](http://files.archivists.org/conference/2017/AM17_Preliminary_Flyer.pdf), July 27, 2017
 
-[**Shaping Humanities Data Preconference**](https://collectionsasdata.github.io/dh2017/), Digital Humanities 2017, August 7, 2017
+[**Shaping Humanities Data Preconference Workshop**](https://collectionsasdata.github.io/dh2017/), Digital Humanities 2017, August 7, 2017
+
+[**Collections as Data - A Deeper Dive Workshop**](https://www.diglib.org/forums/2017forum/affiliated-events/collections-as-data-workshop/), Digital Library Federation, October 25, 2017
 
 ---
 **Planned**
-
-Digital Library Federation, 2017
 
 American Historical Assocation, 2018
 
