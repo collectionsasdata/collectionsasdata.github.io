@@ -5,7 +5,7 @@ title:  "Events"
 ---
 **National Forum**, University of California Santa Barbara, March 1-3 2017<br/>
 
-**LDCX**([notes](https://docs.google.com/document/d/1wgX13tXF8-bhsBxIzpPYBKe7eSxOvuvnPL-rGJsTOsI/edit?usp=sharing)), Stanford University, March 27-29, 2017
+**LDCX** ([notes](https://docs.google.com/document/d/1wgX13tXF8-bhsBxIzpPYBKe7eSxOvuvnPL-rGJsTOsI/edit?usp=sharing)), Stanford University, March 27-29, 2017
 
 [**csvconf**](https://github.com/csvconf/data-tables.csv/blob/master/themes/cultural-heritage-data.md), May 2-3, 2017
 
