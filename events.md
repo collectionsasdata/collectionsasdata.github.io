@@ -13,7 +13,7 @@ title:  "Events"
 
 [**What does it mean - Library Collections as Data**](https://groups.google.com/forum/?utm_medium=email&utm_source=footer#!msg/collectionsasdata/w_SSEAe0RJ4/I5wcG4afAAAJ) (ACRL DHIG webinar), June 16, 2017 
 
-**Noon-time forum**, [Society of American Archivists](http://files.archivists.org/conference/2017/AM17_Preliminary_Flyer.pdf), July 27, 2017
+**Open Forum - Always Already Computational: Collections as Data**, [Society of American Archivists](https://archives2017.sched.com/event/AGAg/open-forums-always-already-computational-collections-as-data), July 27, 2017
 
 [**Shaping Humanities Data Preconference Workshop**](https://dh2017.adho.org/program/workshops/), Digital Humanities 2017, August 7, 2017
 
