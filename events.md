@@ -13,7 +13,7 @@ title:  "Events"
 
 [**What does it mean - Library Collections as Data**](https://groups.google.com/forum/?utm_medium=email&utm_source=footer#!msg/collectionsasdata/w_SSEAe0RJ4/I5wcG4afAAAJ) (ACRL DHIG webinar), June 16, 2017 
 
-**Creating the Future of Digital Scholarship Together: Collaboration from Within Your Library**[American Library Association](https://www.eventscribe.com/2017/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=257851), June 26, 2017 
+**Creating the Future of Digital Scholarship Together: Collaboration from Within Your Library**, [American Library Association](https://www.eventscribe.com/2017/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=257851), June 26, 2017 
 
 **Open Forum - Always Already Computational: Collections as Data**, [Society of American Archivists](https://archives2017.sched.com/event/AGAg/open-forums-always-already-computational-collections-as-data), July 27, 2017
 
