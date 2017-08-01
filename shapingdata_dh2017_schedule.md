@@ -3,11 +3,9 @@ layout: archive
 title:  "Shaping Humanities Data Schedule"
 ---
 ---
-# [Shaping Humanities Data](https://collectionsasdata.github.io/shaping/) 
+[*Shaping Humanities Data Schedule*](https://collectionsasdata.github.io/shaping/) 
 
-Digital Humanities 2017 Schedule
-
-[Abstracts](https://collectionsasdata.github.io/shapingdata_dh2017_abstracts/)
+[*Abstracts*](https://collectionsasdata.github.io/shapingdata_dh2017_abstracts/)
 
 9:30-10:00
 
