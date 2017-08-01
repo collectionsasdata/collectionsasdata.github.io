@@ -7,7 +7,7 @@ title:  "Shaping Humanities Data Abstracts"
 
 August 7, 2017
 
-#Abstracts
+# Abstracts
 
 **Demonstrating A Multidisciplinary Collections API** 
 
