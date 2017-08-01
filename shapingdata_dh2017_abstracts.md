@@ -3,7 +3,7 @@ layout: archive
 title:  "Shaping Humanities Data Abstracts"
 ---
 ---
-# [Shaping Humanities Data](https://collectionsasdata.github.io/shaping/) 
+[**Shaping Humanities Data at Digital Humanities 2017**](https://collectionsasdata.github.io/shaping/) 
 
 Digital Humanities 2017 Abstracts
 
