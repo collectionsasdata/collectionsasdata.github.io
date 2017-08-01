@@ -3,8 +3,8 @@ layout: archive
 title:  "Shaping Humanities Data Abstracts"
 ---
 ---
-[Shaping Humanities Data](https://collectionsasdata.github.io/shaping/) Abstracts
-Digital Humanities 2017
+[Shaping Humanities Data](https://collectionsasdata.github.io/shaping/) 
+Digital Humanities 2017 Abstracts
 
 **Demonstrating A Multidisciplinary Collections API** 
 
