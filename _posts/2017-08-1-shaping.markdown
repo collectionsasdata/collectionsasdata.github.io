@@ -14,18 +14,28 @@ Shaping Humanities Data features eleven talks and five demonstrations. Talks and
 
 # Workshop Organizers 
 Thomas Padilla, University of California Santa Barbara
+
 Sarah Potvin, Texas A&M University
+
 Laurie Allen, University of Pennsylvania
+
 Stewart Varner, University of Pennsylvania
 
 # Workshop Program Committee
 Harriett Green, University of Illinois at Urbana Champaign
+
 Inna Kizhner, Siberian Federal University
+
 Alberto Martinez, Colegio de México
+
 Ian Milligan, University of Waterloo
+
 Gimena Del Rio Riande, Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET)- University of Buenos Aires
-Laurent Romary, DARIAH
+
+Laurent Romary, Inria and DARIAH
+
 Henriette Roued-Cunliffe, University of Copenhagen 
+
 Melissa Terras, University College London
 
 This effort is supported by the Institute of Museum and Library Services, [LG-73-16-0096-16](https://www.imls.gov/grants/awarded/LG-73-16-0096-16). 
