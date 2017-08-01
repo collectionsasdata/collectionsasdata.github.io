@@ -6,7 +6,8 @@ teaser: "Shaping Humanities Data at Digital Humanities 2017"
 ---
 ---
 
-*August 7, 2017 | Montreal, Quebec, Canada*
+August 7, 2017
+Montreal, Quebec, Canada
 
 For researchers and instructors seeking to leverage emerging computational methods and tools, the digital collections that cultural heritage organizations have been developing for decades can be challenging to access let alone use. How can cultural heritage institutions develop collections and systems that are more amenable to computational use? How does the movement towards computationally amenable collections prompt an opportunity to reframe, enrich, and/or contextualize collections in a manner that seeks to avoid replication of long standing biases inherent in cultural heritage collection practice? The Institute for Museum and Library Services funded Collections as Data project organized a full day Digital Humanities 2017 workshop to explore these questions.
 
