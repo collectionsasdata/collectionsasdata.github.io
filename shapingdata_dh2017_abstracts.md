@@ -5,7 +5,9 @@ title:  "Shaping Humanities Data Abstracts"
 ---
 [**Shaping Humanities Data at Digital Humanities 2017**](https://collectionsasdata.github.io/shaping/) 
 
-Digital Humanities 2017 Abstracts
+August 7, 2017
+
+#Abstracts
 
 **Demonstrating A Multidisciplinary Collections API** 
 
