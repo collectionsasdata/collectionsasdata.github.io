@@ -3,8 +3,9 @@ layout: archive
 title:  "Shaping Humanities Data at Digital Humanities 2017"
 ---
 ---
-# Abstracts
+# Shaping Humanities Data Abstracts 
 
+Digital Humanities 2017
 
 **Demonstrating A Multidisciplinary Collections API** 
 
