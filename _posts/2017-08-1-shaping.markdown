@@ -5,9 +5,9 @@ date:   2017-8-1
 teaser: "Shaping Humanities Data at Digital Humanities 2017"
 ---
 ---
-How can cultural heritage institutions develop collections and systems that are more amenable to computational use? How does the movement towards computationally amenable collections prompt an opportunity to reframe, enrich, and/or contextualize collections in a manner that seeks to avoid replication of long standing biases inherent in cultural heritage collection practice? The **Collections as Data** project presents **Shaping Humanities Data** as a venue to explore these questions at Digital Humanities 2017.
+How can cultural heritage institutions develop collections and systems that are more amenable to computational use? How does the movement towards computationally amenable collections prompt an opportunity to reframe, enrich, and/or contextualize collections in a manner that seeks to avoid replication of long standing biases inherent in collection practice? The **Collections as Data** project presents **Shaping Humanities Data** as a venue to explore these questions at Digital Humanities 2017.
 
-Shaping Humanities Data features eleven talks and five demonstrations. Talks and demonstrations were solicited through a [CFP](https://collectionsasdata.github.io/dh2017/) and reviewed by an international program committee. The event includes opportunities for discussion and workshopping the [*Collections as Data*](https://collectionsasdata.github.io/statement/) deliverables. This workshop will ultimately inform the development of recommendations that aim to support cultural heritage community efforts to make collections available as data.
+Shaping Humanities Data features eleven talks and five demonstrations. Talks and demonstrations were solicited through a [CFP](https://collectionsasdata.github.io/dh2017/) and reviewed by an international program committee. The event includes opportunities for discussion and workshopping [*Collections as Data*](https://collectionsasdata.github.io/statement/) frameworks. The workshop will inform the development of recommendations that aim to support cultural heritage collections as data efforts. 
 
 # Abstracts
 Abstracts are available [here](https://collectionsasdata.github.io/shapingdata_dh2017_abstracts/). 
