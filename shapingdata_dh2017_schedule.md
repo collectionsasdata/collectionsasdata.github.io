@@ -8,5 +8,5 @@ title:  "Shaping Humanities Data Schedule"
 Digital Humanities 2017 Schedule
 
 9:30-10:00
-. Introductions
+⋅Introductions
 10:00-10:50
