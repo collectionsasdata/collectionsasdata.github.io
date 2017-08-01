@@ -7,6 +7,8 @@ title:  "Shaping Humanities Data at Digital Humanities 2017 Schedule"
 
 [*Abstracts*](https://collectionsasdata.github.io/shapingdata_dh2017_abstracts/)
 
+August 7, 2017
+
 9:30-10:00
 
 * Introductions
