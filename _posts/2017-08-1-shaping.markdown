@@ -13,6 +13,73 @@ For researchers and instructors seeking to leverage emerging computational metho
 
 Shaping Humanities Data features eleven talks and five demonstrations. Talks and demonstrations were solicited through a CFP and reviewed by an international program committee. The event will include opportunities for discussion and workshopping the “Always Already Computational” community framework and guides. This workshop will ultimately inform the development of recommendations that aim to support cultural heritage community efforts to make collections available as data.
 
+# Abstracts
+Abstracts are available [here](https://collectionsasdata.github.io/shapingdata_dh2017_abstracts/). 
+
+# Schedule 
+The schedule is available [here](https://collectionsasdata.github.io/shapingdata_dh2017_schedule/). 
+
+# Speakers 
+[Richard Marciano](https://ischool.umd.edu/faculty-staff/richard-marciano), University of Maryland
+
+[Gregory Jansen](https://ischool.umd.edu/faculty-staff/greg-jansen), University of Maryland
+
+[Nabil Kashyap](http://www.nabilk.com/), Swarthmore College
+
+[Lindsay Van Tine](http://lindsayvantine.org/), University of Pennsylvania
+
+[Daniel L. Schwartz](http://idhmc.tamu.edu/node/32), Texas A&M University
+
+[Deborah Leem](http://londonsmells.co.uk/contributors/), Wellcome Trust and University College London
+
+[Caitlin Pollock](http://www.ulib.iupui.edu/digitalscholarship/people/caitlinpollock), Indiana University-Purdue University Indianapolis
+
+[Heather Coates](http://www.ulib.iupui.edu/digitalscholarship/people/heathercoates), Indiana University-Purdue University Indianapolis
+
+[Miguel Escobar Varela](http://www.usp.nus.edu.sg/about/meet-our-professors/39-miguel-escobar-varela), National University of Singapore
+
+[Quinn Dombrowski](http://www.quinndombrowski.com/), University of California Berkeley
+
+[Tassie Gniady](http://www.tassieg.org/about/), Indiana University
+
+[John Simpson](https://www.computecanada.ca/research-portal/technical-support/national-experts/), Compute Canada
+
+[Megan Meredith-Lobay](http://ubc.academia.edu/MeganMeredithLobay), University of British Columbia
+
+[Rachel Di Cresce](https://its.library.utoronto.ca/staff/rachel-di-cresce), University of Toronto
+
+[Bridget Almas](http://www.perseus.tufts.edu/hopper/about/who/bridgetAlmas), Tufts University
+
+Frederik Baumgardt, Tufts University
+
+[Tobias Weigel](https://www.dkrz.de/about/Organisation/mitarbeiter/TobiasWeigel), DKRZ
+
+[Thomas Zastrow](http://www.mpcdf.mpg.de/about-mpcdf/organisation/staff/personalpage?email=thomas.zastrow@rzg.mpg.de), MPCDF
+
+[Cecily Marcus](https://www.linkedin.com/in/cecily-marcus-61946347), University of Minnesota Libraries
+
+[Tanya Clement](https://www.ischool.utexas.edu/people/person_details?PersonID=176), The University of Texas at Austin
+
+[Steve McLaughlin](http://www.stephenmclaughlin.net/), The University of Texas at Austin
+
+[Kathryn Tomasek](http://wheatoncollege.edu/faculty/profiles/kathryn-tomasek/), Wheaton College (Massachusetts)
+
+Georg Vogeler, Centre for Information Modeling - Austrian Centre for Digital Humanities, University of Graz
+
+[Brandon Locke](http://brandontlocke.com/), Michigan State University
+
+[Sarah Severson](https://www.mcgill.ca/library/librarians/sarah-severson), McGill University Library and Archive
+
+[Berenica Vejvoda](https://www.mcgill.ca/library/librarians/berenica-vejvoda), McGill University Library and Archive
+
+[Megan Senseney](https://ischool.illinois.edu/people/staff/megan-senseney), University of Illinois
+
+[Daniel G. Tracy](http://www.library.illinois.edu/people/bios/dtracy/), University of Illinois
+
+[Eleanor Dickson](https://www.linkedin.com/in/eleanor-dickson-66643a66), University of Illinois
+
+[Steven Claeyssens](https://www.kb.nl/organisatie/organisatie-en-beleid/afdelingen-en-organogram/collectiespecialisten-kb/steven-claeyssens), Koninklijke Bibliotheek
+
 # Workshop Organizers 
 Thomas Padilla, University of California Santa Barbara
 
