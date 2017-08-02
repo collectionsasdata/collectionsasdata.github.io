@@ -15,7 +15,7 @@ Abstracts are available [here](https://collectionsasdata.github.io/shapingdata_d
 # Schedule 
 The schedule is available [here](https://collectionsasdata.github.io/shapingdata_dh2017_schedule/). 
 
-# Speakers 
+# Contributors 
 [Richard Marciano](https://ischool.umd.edu/faculty-staff/richard-marciano), University of Maryland
 
 [Gregory Jansen](https://ischool.umd.edu/faculty-staff/greg-jansen), University of Maryland
