@@ -11,7 +11,7 @@ August 7, 2017
 
 9:30-10:00
 
-* Introductions
+* Introductions, Schedule, Project Update
 
 10:00-10:50
 
