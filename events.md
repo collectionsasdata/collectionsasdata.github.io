@@ -6,7 +6,7 @@ title:  "Events"
 
 **Open Forum - Always Already Computational: Collections as Data**, [Society of American Archivists](https://archives2017.sched.com/event/AGAg/open-forums-always-already-computational-collections-as-data), July 27, 2017
 
-[**Shaping Humanities Data Preconference Workshop**](https://dh2017.adho.org/program/workshops/), Digital Humanities 2017, August 7, 2017
+[**Shaping Humanities Data Preconference Workshop**](https://collectionsasdata.github.io/shaping/), Digital Humanities 2017, August 7, 2017
 
 [**Collections as Data - A Deeper Dive Workshop**](https://www.diglib.org/forums/2017forum/affiliated-events/collections-as-data-workshop/), Digital Library Federation, October 25, 2017
 
