@@ -4,7 +4,7 @@ title:  "Collections as Data Facets"
 ---
 ---
 
-[Collections as Data Facets]() document collections as data implementations. An implementation consists of the people, services, practices, technologies, and infrastructure that aim to encourage computational use of cultural heritage collections. **Ultimately, a collection of facets presents a multifaceted argument for the present and future state of collections as data.** 
+[Collections as Data Facets]() document collections as data implementations. An implementation consists of the people, services, practices, technologies, and infrastructure that aim to encourage computational use of cultural heritage collections. 
 
 ---
 
