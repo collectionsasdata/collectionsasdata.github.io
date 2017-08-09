@@ -4,7 +4,7 @@ title:  "Collections as Data Facets"
 ---
 ---
 
-[**Collections as Data Facets**]() document collections as data implementations. An implementation consists of the people, services, practices, technologies, and infrastructure that aim to encourage computational use of cultural heritage collections. 
+[**Collections as Data Facets**](https://collectionsasdata.github.io/facets/) document collections as data implementations. An implementation consists of the people, services, practices, technologies, and infrastructure that aim to encourage computational use of cultural heritage collections. 
 
 ---
 # [La Gaceta de La Habana](https://github.com/UMiamiLibraries/collections-as-data/tree/master/LaGaceta)
