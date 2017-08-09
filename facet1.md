@@ -34,8 +34,8 @@ The project team consisted of:
 
 * a project manager, who oversaw the scrum-agile process used to manage the development
 * three software developers, who took responsibility for content accession, repository  management, and API design and development, respectively
-      * an analyst, who surveyed the field of existing text and data mining services, and who worked with potential users of the system to understand their needs
-  * a UI/UX expert, who helped in designing intuitive and effective user interfaces (which complemented and documented the API).
+* an analyst, who surveyed the field of existing text and data mining services, and who worked with potential users of the system to understand their needs
+* a UI/UX expert, who helped in designing intuitive and effective user interfaces (which complemented and documented the API).
 
 The development project ran for 10-11 months, and a functional prototype was built that exposed an API for discovery and bulk access of etheses. The user could request any (or all) of 3 content representations: the metadata (including an abstract), the thesis as a PDF (which is the approved submission format), and the full (unstructured) text extracted from the PDF.
 
