@@ -9,7 +9,7 @@ title:  "Collections as Data Facets"
 ---
 
 ## [**David Newbury**](http://www.workergnome.com/), Carnegie Museum of Art
-## [**Daniel Fowler**],(http://okfnlabs.org/members/dfowler/) Open Knowledge International
+## [**Daniel Fowler**](http://okfnlabs.org/members/dfowler/), Open Knowledge International
 
 ## 1. Why do it
 
