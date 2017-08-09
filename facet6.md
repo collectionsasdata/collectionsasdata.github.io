@@ -9,8 +9,9 @@ title:  "Collections as Data Facets"
 ---
 # [Chronicling America](http://chroniclingamerica.loc.gov/)
 
-## [**Deborah Thomas**](http://digitalpreservation.gov/meetings/dcs16/bio_thomas.html), Library of Congress
-## [**Nathan Yarasavage**](https://www.linkedin.com/in/nathan-yarasavage-15a9935b), Library of Congress
+[**Deborah Thomas**](http://digitalpreservation.gov/meetings/dcs16/bio_thomas.html), Library of Congress
+
+[**Nathan Yarasavage**](https://www.linkedin.com/in/nathan-yarasavage-15a9935b), Library of Congress
 
 ## 1. Why do it
 
