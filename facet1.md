@@ -8,7 +8,7 @@ title:  "Collections as Data Facets"
 
 ---
 
-# [MIT Libraries Text and Data Mining](https://github.com/mitlib-tdm)
+Alt-H1 [MIT Libraries Text and Data Mining](https://github.com/mitlib-tdm)
 
 [**Richard Rodgers**](http://libguides.mit.edu/c.php?g=176063&p=1160989), Massachusetts Institute of Technology 
 
