@@ -14,7 +14,7 @@ title:  "Collections as Data Facets"
 
  *an accessible narrative description that describes why the decision was made to do the work*
  
-[The American Philosophical Society Library (APS)](https://diglib.amphilsoc.org/data) has been digitizing historic primary sources for just about a decade. We’ve spent a lot of time smoothing out our workflow, and we feel like the process is pretty well developed. However, we’ve known for some time  that the audience for these scans are limited. The vast majority of our scanned material is hand-written (correspondence, diaries, ledgers, account books, for example). Reading this handwriting can be slow, and at times is a specialization in its own right. 
+[**The American Philosophical Society Library (APS)**](https://diglib.amphilsoc.org/data) has been digitizing historic primary sources for just about a decade. We’ve spent a lot of time smoothing out our workflow, and we feel like the process is pretty well developed. However, we’ve known for some time  that the audience for these scans are limited. The vast majority of our scanned material is hand-written (correspondence, diaries, ledgers, account books, for example). Reading this handwriting can be slow, and at times is a specialization in its own right. 
 
 We wanted to make this material available in a more approachable manner. We also wanted to give researchers an opportunity to easily interact with the material in different ways, including mapping and text analysis.  Lastly, we see this as an outreach opportunity. We hope to build tutorials for students at the high school and undergraduate level to learn about visualization creation and digital history. 
 
@@ -22,7 +22,7 @@ We wanted to make this material available in a more approachable manner. We also
 
 *an accessible narrative description that describes how the administrative case was made to do the work*
 
-The administrative case for [creating datasets](https://diglib.amphilsoc.org/data) from our collection was based entirely on our mission to increase access to our collections. This was a relatively easy case to make. However, there were additional hurdles to overcome. 
+The administrative case for [**creating datasets**](https://diglib.amphilsoc.org/data) from our collection was based entirely on our mission to increase access to our collections. This was a relatively easy case to make. However, there were additional hurdles to overcome. 
 
 Primarily, there are administrative concerns that the data we put out will have mistakes. This has proven to be the case. We try to include warnings that our datasets are created with attention to detail, but that errors happen. We’re also cautious about how we label these datasets. We tend not to say that they are transcriptions (though, due to a dearth of synonyms, we do use the verb ‘transcribe’). As an organization, we benefit greatly from large and professional transcription projects, including the Papers of Benjamin Franklin and the Papers of Thomas Jefferson. These projects are definitive representations of primary material. Our datasets are not. Our datasets are our attempt to make our material more usable, and usable for different types of projects.
 
@@ -39,11 +39,11 @@ We identified the requirements for dataset creation to be:
 3. versioning and/or revision history
 4. ability to share among multiple people
 
-We experimented with a number of crowdsourcing tools, including [Omeka/Scripto](https://github.com/omeka/plugin-Scripto), [Omeka/Scribe](https://github.com/ui-libraries/Scribe), and [Scribe Project](http://scribeproject.github.io/). However, we quickly realized that the team we were assembling was small enough to rely on more modest tools. 
+We experimented with a number of crowdsourcing tools, including [**Omeka/Scripto**](https://github.com/omeka/plugin-Scripto), [**Omeka/Scribe**](https://github.com/ui-libraries/Scribe), and [**Scribe Project**](http://scribeproject.github.io/). However, we quickly realized that the team we were assembling was small enough to rely on more modest tools. 
 
 We ended up using Google Sheets as the primary tool. We used dual monitors to ensure that the person creating the dataset can easily see the scanned page as well as the spreadsheet. 
 
-For [the historic prison data](https://diglib.amphilsoc.org/data), our first major step toward thinking of our collections as data, we were lucky to have two talented and devoted volunteers: Kristina Frey and Michelle Ziogas. Kristina assisted in the early stages of the project, and Michelle did the majority of the dataset work.    
+For [**the historic prison data**](https://diglib.amphilsoc.org/data), our first major step toward thinking of our collections as data, we were lucky to have two talented and devoted volunteers: Kristina Frey and Michelle Ziogas. Kristina assisted in the early stages of the project, and Michelle did the majority of the dataset work.    
 
 ## 4. Share the docs 
 
@@ -57,13 +57,11 @@ We don’t currently have any documentation, though we expect to create some dur
 
 We understand the use of our data primarily anecdotally. We think of our datasets as a means of identifying new institutional partners and collaborators. We monitor the use of our data via these partners. For example, we created the historic prison dataset from material in our library related to Eastern State Penitentiary. As we did this, we contacted the staff of the Eastern State Historic Site, and this has flourished into a fruitful partnership. Researchers come to our data through them, through our digital repository, and through the various third-party services we use to host our data. Several of these researchers have contacted us to offer their own data, to discuss additional projects, to show what they’re building, and to offer corrections. This has been our principal measure of success. 
 
-We do maintain some metrics. [The Magazine for Early American Datasets](http://repository.upenn.edu/mead/) records the number of times datasets are downloaded. We also have a count of how many people download from our digital repository. These are helpful and appreciated. However, the motivation continues to be the new connections we make with individuals. 
+We do maintain some metrics. [**The Magazine for Early American Datasets**](http://repository.upenn.edu/mead/) records the number of times datasets are downloaded. We also have a count of how many people download from our digital repository. These are helpful and appreciated. However, the motivation continues to be the new connections we make with individuals. 
 
 ## 6. Who supports use
 
 *discrete discussion of the people, services, and programs that support use of the data (e.g. digital scholarship services, instruction services, subject area liaisons, etc.)*
-
-After the data have been fully documented and converted to spreadsheets, the goal is that they can be used largely unsupported (setting aside the tremendous amount of work that goes into maintaining the digital repository). As a subject specialist and the curator of the collection, I am available to support data users. Interacting with 4-dimensional oceanographic data is generally handled in Matlab (the software of choice for most oceanographers) or R (an emerging choice in this domain). I expect most users of these data to be outside of Stanford. 
 
 ## 7. Things people should know 
 
@@ -84,5 +82,5 @@ However:
 
 Our flagship project to date -- historic prison data -- has gotten some positive attention, and we’re eager to keep moving. We’ll be hosting a digital humanities fellow to focus specifically on using the historic prison data. He’ll be exploring various types of visualizations and analysis. We also hope to build a number of tutorials to encourage others to use the data for their own projects. 
 
-Additionally, we’re working on two other open data projects. One involves a post office book kept by Benjamin Franklin during his tenure as Postmaster of Philadelphia. The other will involve a record of indentured individuals arriving in Philadelphia during the years of 1771-1773. Both of these projects will have academic advisory committees to help us strategize use cases and promote the data. 
+Additionally, we’re working on two other [**open data projects**](https://diglib.amphilsoc.org/data). One involves a post office book kept by Benjamin Franklin during his tenure as Postmaster of Philadelphia. The other will involve a record of indentured individuals arriving in Philadelphia during the years of 1771-1773. Both of these projects will have academic advisory committees to help us strategize use cases and promote the data. 
  
