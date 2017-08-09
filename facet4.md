@@ -4,11 +4,13 @@ title:  "Collections as Data Facets"
 ---
 ---
 
-[**Collections as Data Facets**]() document collections as data implementations. An implementation consists of the people, services, practices, technologies, and infrastructure that aim to encourage computational use of cultural heritage collections. 
+[**Collections as Data Facets**](https://collectionsasdata.github.io/facets/) document collections as data implementations. An implementation consists of the people, services, practices, technologies, and infrastructure that aim to encourage computational use of cultural heritage collections. 
 
 ---
 
-## [**Scott Ziegler**](https://amphilsoc.org/about/staff), American Philosophical Society Library
+# [American Philosophical Society Open Data Projects](https://diglib.amphilsoc.org/data)
+
+[**Scott Ziegler**](https://amphilsoc.org/about/staff), American Philosophical Society Library
 
 ## 1. Why do it
 
