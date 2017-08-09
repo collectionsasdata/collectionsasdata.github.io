@@ -4,9 +4,11 @@ title:  "Collections as Data Facets"
 ---
 ---
 
-*facet \ˈfa-sət\: one side of something many-sided*
+# [Richard Rodgers](http://libguides.mit.edu/c.php?g=176063&p=1160989), Massachusetts Institute of Technology '---
 
-[Richard Rodgers](http://libguides.mit.edu/c.php?g=176063&p=1160989), Massachusetts Institute of Technology 
+---
+
+*facet \ˈfa-sət\: one side of something many-sided*
 
 Collections as Data Facets document collections as data implementations. An implementation consists of the people, services, practices, technologies, and infrastructure that aim to encourage computational use of cultural heritage collections. Ultimately, a collection of facets presents a multifaceted argument for the present and future state of collections as data. 
 
