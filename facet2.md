@@ -63,7 +63,7 @@ An additional complication for our data is that we have broken out the 80,000+ p
 
 *an assortment of formal documentation (personas, use cases, functional requirements), workflows, and code you have that supports the implementation*
 
-One of the most important decisions that we made was to treat the documentation for the release as of equal importance to the data.  Tracey Berg-Fulton, the collections database associate and Art Tracks team member, spent a long time crafting the documentation to be thorough and friendly.  Friendly was important, because we knew that many of the people who would be looking at this data would be students or members of the public, and we wanted them to feel welcome to use the data.  Big legal disclaimers and restrictions, or dense technological jargon might have prevented them from feeling like they were welcome.
+One of the most important decisions that we made was to treat [the documentation](https://github.com/cmoa/collection) for the release as of equal importance to the data.  Tracey Berg-Fulton, the collections database associate and Art Tracks team member, spent a long time crafting the documentation to be thorough and friendly.  Friendly was important, because we knew that many of the people who would be looking at this data would be students or members of the public, and we wanted them to feel welcome to use the data.  Big legal disclaimers and restrictions, or dense technological jargon might have prevented them from feeling like they were welcome.
 
 We also included within our documentation a table that indicates not just what the field is, but what it means, what type of data you can expect, and a real-world example of the sort of data that field contains.  We wanted to make sure that people were able to find out if our data would meet their needs without having to download it and review it.
 
@@ -79,7 +79,7 @@ Collection Data on GitHub: [https://github.com/cmoa/collection](https://github.c
 
 *discrete discussion of how you approach understanding use (e.g. library use, research use, pedagogical use, creative use, etc.) - discussion of exemplary use is also encouraged*
 
-Compared to an API, providing access to Carnegie Museum of Art Collection Data through a data dump is a lower support cost option in terms of time and money.  There is no server we need to run: CMOA are, for the moment, hosting the public data on GitHub’s infrastructure.  Providing a data dump also benefits users, both academic researchers and software developers, who might not be not be interested in writing code to hit an API endpoint 75,000 times to get 75,000 objects.  A single file containing all the required data seems to be much easier for certain use cases.
+Compared to an API, providing access to Carnegie Museum of Art [Collection Data](https://github.com/cmoa/collection) through a data dump is a lower support cost option in terms of time and money.  There is no server we need to run: CMOA are, for the moment, hosting the public data on GitHub’s infrastructure.  Providing a data dump also benefits users, both academic researchers and software developers, who might not be not be interested in writing code to hit an API endpoint 75,000 times to get 75,000 objects.  A single file containing all the required data seems to be much easier for certain use cases.
 
 ## 6. Who supports use
 
