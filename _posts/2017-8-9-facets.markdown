@@ -45,4 +45,6 @@ We welcome submission of additional facets. Facets can describe scalable, non-sc
 
 **The next round of facets are due by September 29, 2017.** 
 
-Submissions should follow the [Facet template](https://docs.google.com/document/d/1_i4DEggmZDzZ_JXIIZdwF7M4bMjR36W9Vk2pjZtCho0/edit). Submit Facets to Thomas Padilla - thomaspadilla@ucsb.edu. 
+Submissions should follow the [Facet template](https://docs.google.com/document/d/1_i4DEggmZDzZ_JXIIZdwF7M4bMjR36W9Vk2pjZtCho0/edit). 
+
+Submit Facets to Thomas Padilla - thomaspadilla@ucsb.edu. 
