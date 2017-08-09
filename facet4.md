@@ -8,7 +8,7 @@ title:  "Collections as Data Facets"
 
 ---
 
-## [**Amanda Whitmire**](https://library.stanford.edu/people/thalassa), Stanford University Libraries
+## [**Scott Ziegler**](https://amphilsoc.org/about/staff), American Philosophical Society
 
 ## 1. Why do it
 
