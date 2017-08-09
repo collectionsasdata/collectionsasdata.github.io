@@ -9,8 +9,9 @@ title:  "Collections as Data Facets"
 ---
 # [La Gaceta de La Habana](https://github.com/UMiamiLibraries/collections-as-data/tree/master/LaGaceta)
 
-## [**Deborah Thomas**](http://digitalpreservation.gov/meetings/dcs16/bio_thomas.html), Library of Congress
-## [**Nathan Yarasavage**](https://www.linkedin.com/in/nathan-yarasavage-15a9935b), Library of Congress
+[**Paige Morgan**](http://www.paigemorgan.net/), University of Miami Libraries
+[**Elliott Williams**](http://sp.library.miami.edu/subjects/profile/e.williams10), University of Miami Libraries
+[**Laura Capell**](http://sp.library.miami.edu/subjects/profile/l.capell), University of Miami Libraries
 
 ## 1. Why do it
 
