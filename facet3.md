@@ -8,7 +8,7 @@ title:  "Collections as Data Facets"
 
 ---
 
-## [**Amanda Whitemire**](https://library.stanford.edu/people/thalassa), Stanford University Libraries
+## [**Amanda Whitmire**](https://library.stanford.edu/people/thalassa), Stanford University Libraries
 
 ## 1. Why do it
 
