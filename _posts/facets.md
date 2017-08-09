@@ -12,23 +12,23 @@ A facet documents a collections as data implementation. An implementation consis
 
 # Release
 
-Facet 1 - Richard Rodgers, Massachusetts Institute of Technology Libraries 
+[**Facet 1**](https://collectionsasdata.github.io/facet1/) - Richard Rodgers, Massachusetts Institute of Technology Libraries 
 
-Facet 2 - David Newbury, Carnegie Museum of Art and Daniel Fowler, Open Knowledge International
+[**Facet 2**](https://collectionsasdata.github.io/facet2/) - David Newbury, Carnegie Museum of Art and Daniel Fowler, Open Knowledge International
 
-Facet 3 - Amanda Whitmire, Stanford University Libraries 
+[**Facet 3**](https://collectionsasdata.github.io/facet3/) - Amanda Whitmire, Stanford University Libraries 
 
-Facet 4 - Scott Ziegler, American Philosophical Society 
+[**Facet 4**](https://collectionsasdata.github.io/facet4/) - Scott Ziegler, American Philosophical Society 
 
-Facet 5 - Dot Porter, University of Pennsylvania Libraries
+[**Facet 5**](https://collectionsasdata.github.io/facet5/) - Dot Porter, University of Pennsylvania Libraries
 
-Facet 6 - Deborah Thomas and Nathan Yarasavage, Library of Congress
+[**Facet 6**](https://collectionsasdata.github.io/facet6/) - Deborah Thomas and Nathan Yarasavage, Library of Congress
 
-Facet 7 - Paige Morgan, Elliott Williams, and Laura Capell, University of Miami Libraries
+[**Facet 7**](https://collectionsasdata.github.io/facet7/) - Paige Morgan, Elliott Williams, and Laura Capell, University of Miami Libraries
 
-Facet 8 - Zach Coble, Nick Wolf, and Scott Collard, New York University Libraries
+[**Facet 8**](https://collectionsasdata.github.io/facet8/) - Zach Coble, Nick Wolf, and Scott Collard, New York University Libraries
 
-Facet 9 - Mary Elings and Quinn Dombrowski, University of California Berkeley
+[**Facet 9**](https://collectionsasdata.github.io/facet9/) - Mary Elings and Quinn Dombrowski, University of California Berkeley
 
 # Call for Submissions
 
