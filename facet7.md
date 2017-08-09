@@ -10,7 +10,9 @@ title:  "Collections as Data Facets"
 # [La Gaceta de La Habana](https://github.com/UMiamiLibraries/collections-as-data/tree/master/LaGaceta)
 
 [**Paige Morgan**](http://www.paigemorgan.net/), University of Miami Libraries
+
 [**Elliott Williams**](http://sp.library.miami.edu/subjects/profile/e.williams10), University of Miami Libraries
+
 [**Laura Capell**](http://sp.library.miami.edu/subjects/profile/l.capell), University of Miami Libraries
 
 ## 1. Why do it
