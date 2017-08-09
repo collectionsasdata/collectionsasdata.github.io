@@ -8,15 +8,13 @@ title:  "Collections as Data Facets"
 
 ---
 
-## [**Scott Ziegler**](https://amphilsoc.org/about/staff), American Philosophical Society Library
+## [**Dot Porter**](http://dla.library.upenn.edu/dla/staff/record.html?id=619), University of Pennsylvania Libraries
 
 ## 1. Why do it
 
  *an accessible narrative description that describes why the decision was made to do the work*
  
-[**The American Philosophical Society Library (APS)**](https://diglib.amphilsoc.org/data) has been digitizing historic primary sources for just about a decade. We’ve spent a lot of time smoothing out our workflow, and we feel like the process is pretty well developed. However, we’ve known for some time  that the audience for these scans are limited. The vast majority of our scanned material is hand-written (correspondence, diaries, ledgers, account books, for example). Reading this handwriting can be slow, and at times is a specialization in its own right. 
-
-We wanted to make this material available in a more approachable manner. We also wanted to give researchers an opportunity to easily interact with the material in different ways, including mapping and text analysis.  Lastly, we see this as an outreach opportunity. We hope to build tutorials for students at the high school and undergraduate level to learn about visualization creation and digital history. 
+We believe that users of [**manuscript data**](http://openn.library.upenn.edu/) should have access to first-quality images and metadata free of technical or licensing constraints and this is what [**OPenn**](http://openn.library.upenn.edu/) provides. First quality means the resolution at which the images were captured, and authoritative metadata in archival formats presented for easy reuse by humans and machines. Everything in OPenn is licensed as a [**Free Cultural Work**](https://creativecommons.org/share-your-work/public-domain/freeworks/). 
 
 ## 2. Making the Case 
 
@@ -24,63 +22,53 @@ We wanted to make this material available in a more approachable manner. We also
 
 The administrative case for [**creating datasets**](https://diglib.amphilsoc.org/data) from our collection was based entirely on our mission to increase access to our collections. This was a relatively easy case to make. However, there were additional hurdles to overcome. 
 
-Primarily, there are administrative concerns that the data we put out will have mistakes. This has proven to be the case. We try to include warnings that our datasets are created with attention to detail, but that errors happen. We’re also cautious about how we label these datasets. We tend not to say that they are transcriptions (though, due to a dearth of synonyms, we do use the verb ‘transcribe’). As an organization, we benefit greatly from large and professional transcription projects, including the Papers of Benjamin Franklin and the Papers of Thomas Jefferson. These projects are definitive representations of primary material. Our datasets are not. Our datasets are our attempt to make our material more usable, and usable for different types of projects.
-
-In making the case for doing these datasets, we agreed to be clear about what we’re putting out, to help draw a distinction between our datasets and professional transcriptions, and to supply feedback options for people who find mistakes. 
+Penn Libraries has a commitment to Open Data, and the study of manuscripts in a digital age is the central mandate of the Schoenberg Institute for Manuscript Studies (SIMS) which is an integral part of the library and was founded in 2013. Much of the work of SIMS involves the reuse of our own digital manuscript materials, and we knew in 2013 that we could not do our job without a resource like OPenn. So we had to make one. The director of SIMS made the case for OPenn to the Director of Libraries, who made the decision to invest in the creation of OPenn.
 
 ## 3. How you did it
 
 *an accessible narrative description that describes how you did it; who was involved - what their roles were; what services were drawn upon; what collections were involved and why were they selected; what infrastructure and technologies were selected and why; what challenges were encountered in the course of the implementation*
 
-We identified the requirements for dataset creation to be:
+In 2013 Penn Libraries hired Doug Emery, who had created systems similar to OPenn for other projects, and he conceived the framework. The Penn Libraries did not at that time have a repository, so it was not in a position to host OPenn in an existing system. The Director of SIMS asked the Director of Libraries if we could set it up through Penn Central Computing. We started to populate OPenn with existing medieval manuscript image data; this was a challenge because although most of our manuscripts had already been photographed and cataloged, the master TIFF files were located in scattered hard drives and servers stored in various corners of Penn Libraries. This work was very intensive, and was carried out primarily by Jessie Dummer. We chose the manuscripts because they were central to the mission of SIMS and because the data was good. Doug Emery and Dot Porter designed a package and metadata structure for converting descriptive MARC and structural metadata into a TEI format designed for use and consumption integrating metadata with images.
 
-1. ability to view a scan of the page being transcribed
-2. ability to simultaneously view the software that the text is being typed into
-3. versioning and/or revision history
-4. ability to share among multiple people
+Once OPenn was populated with Penn Libraries manuscript data we moved on to a second project. This project took advantage of the OPenn platform to gather into one location holdings from many different institutions, based around a common theme - 19th century travel diaries. This project has its own website, but the data served from there is all extracted from OPenn (http://diaries.pacscl.org/). OPenn now is the host for the Bibliotheca Philadelphiensis project, a project to digitize most of the Western medieval manuscripts in Philadelphia which received a $500K [**grant from CLIR**](http://bibliophilly.pacscl.org/). SIMS’s Curator for Digital Research Services, Dot Porter, is a co-PI on this project.
 
-We experimented with a number of crowdsourcing tools, including [**Omeka/Scripto**](https://github.com/omeka/plugin-Scripto), [**Omeka/Scribe**](https://github.com/ui-libraries/Scribe), and [**Scribe Project**](http://scribeproject.github.io/). However, we quickly realized that the team we were assembling was small enough to rely on more modest tools. 
+OPenn was designed to use the simplest and least expensive technologies available for sharing image and metadata. As such, technologically it is nothing more than a webserver with a very large hard drive that runs Apache and exposes the directory listings of its content. The content itself is static, comprising only images, TEI/XML metadata, text manifests, and HTML files. This data is exposed for ease of access and ease of movement via simple, well-established internet protocols: HTTP, anonymous FTP, and Rsync. One challenge that we had during implementation was convincing our service providers that what we wanted was something as simple as OPenn, without a query interface or an Application Programming Interface. Technologically, OPenn is more like an old-style software sharing website from the 1990s than it is a modern web application.
 
-We ended up using Google Sheets as the primary tool. We used dual monitors to ensure that the person creating the dataset can easily see the scanned page as well as the spreadsheet. 
-
-For [**the historic prison data**](https://diglib.amphilsoc.org/data), our first major step toward thinking of our collections as data, we were lucky to have two talented and devoted volunteers: Kristina Frey and Michelle Ziogas. Kristina assisted in the early stages of the project, and Michelle did the majority of the dataset work.    
+However this approach does have sustainability issues. Penn Libraries is currently designing and building a [**Samvera**](https://wiki.duraspace.org/display/samvera/Samvera) repository, and in the future we would like the data in OPenn to be stored in this repository, but served in ways similar to how it is done now. Storing the data in the repository will help with sustainability, and will also provide additional ways to serve the same data (e.g., using IIIF protocols). However we do plan to keep serving the data as friction-free as possible.
+ 
 
 ## 4. Share the docs 
 
 *an assortment of formal documentation (personas, use cases, functional requirements), workflows, and code you have that supports the implementation*
 
-We don’t currently have any documentation, though we expect to create some during future projects.
+We have both a ReadMe and a Technical ReadMe file on the OPenn site:
+
+[**http://openn.library.upenn.edu/ReadMe.html**](http://openn.library.upenn.edu/ReadMe.html)
+[**http://openn.library.upenn.edu/TechnicalReadMe.html**](http://openn.library.upenn.edu/TechnicalReadMe.html)
 
 ## 5. Understanding use 
 
 *discrete discussion of how you approach understanding use (e.g. library use, research use, pedagogical use, creative use, etc.) - discussion of exemplary use is also encouraged*
 
-We understand the use of our data primarily anecdotally. We think of our datasets as a means of identifying new institutional partners and collaborators. We monitor the use of our data via these partners. For example, we created the historic prison dataset from material in our library related to Eastern State Penitentiary. As we did this, we contacted the staff of the Eastern State Historic Site, and this has flourished into a fruitful partnership. Researchers come to our data through them, through our digital repository, and through the various third-party services we use to host our data. Several of these researchers have contacted us to offer their own data, to discuss additional projects, to show what they’re building, and to offer corrections. This has been our principal measure of success. 
-
-We do maintain some metrics. [**The Magazine for Early American Datasets**](http://repository.upenn.edu/mead/) records the number of times datasets are downloaded. We also have a count of how many people download from our digital repository. These are helpful and appreciated. However, the motivation continues to be the new connections we make with individuals. 
+Through OPenn, we provide well-structured standard packages that allow for machine and human reuse without putting any preconditions on how it may be used. We provide the data; users can do whatever they like. We are undoubtedly OPenn’s primary user. We have built online bookreaders (generated with scripts from the TEI/XML files) that stream image files from the OPenn server, and we have also built downloadable epub electronic books (also generated with scripts from the TEI/XML files) that have copies of the manuscript images as part of the book. 
 
 ## 6. Who supports use
 
 *discrete discussion of the people, services, and programs that support use of the data (e.g. digital scholarship services, instruction services, subject area liaisons, etc.)*
 
+ISC (Penn Central Computing) maintains the computer and storage, Jessie Dummer and Diane Biunno carry out the day to day work of managing and adding materials to the OPenn website. Dot Porter provides curatorial advice and oversight (and is also a superuser), and Doug Emery wrote and maintains the software and manages the project.
+
 ## 7. Things people should know 
 
 *distilled things that people should know if they are thinking about pursuing similar work*
 
-When discussing this with people at libraries similar to my own, I tend to focus on the following: 
+We serve digital assets on OPenn that represent physical materials that Penn Libraries doesn’t own. OPenn is seen by us as an outlet for materials 
 
-* Datasets are easy to create. All you need to get started as a spreadsheet and something to transcribe. 
-* Material is easy to identify. We look for material that will work well as spreadsheets. Ledgers, printed forms, tallies, account books, are all examples due to their recognizable and repeatable format. 
-* Datasets are useful. You can save researchers’ time by removing the challenge of reading handwritten notes; you can put material in a format that makes it easy to map; the material can sorted, searched and filtered; you can promote the mission of your library. 
-
-However: 
-* Datasets need to be managed: Mistakes will slide in, and researchers will point them out; editorial decisions will need to made, even in the most straight-forward-looking material.
+OPenn treats digital assets as originals and seeks to build up a distinctive library of assets whether those originals are housed by Penn Libraries or not. The Open licensing in OPenn allows for easy collaboration with institutions local and international, many of which could not deliver this data in this quantity by themselves. It is a mistake to think that either the licensing or the ease of access to the materials is less important than the other - they are equally important. 
 
 ## 8. Whats next
 
 *you have something in place. whats next and why?* 
 
-Our flagship project to date -- historic prison data -- has gotten some positive attention, and we’re eager to keep moving. We’ll be hosting a digital humanities fellow to focus specifically on using the historic prison data. He’ll be exploring various types of visualizations and analysis. We also hope to build a number of tutorials to encourage others to use the data for their own projects. 
-
-Additionally, we’re working on two other [**open data projects**](https://diglib.amphilsoc.org/data). One involves a post office book kept by Benjamin Franklin during his tenure as Postmaster of Philadelphia. The other will involve a record of indentured individuals arriving in Philadelphia during the years of 1771-1773. Both of these projects will have academic advisory committees to help us strategize use cases and promote the data. 
+We are going to move OPenn to the Library’s Samvera repository to ensure preservation standards and long term sustainability and scalability. We will maintain an OPenn interface to this data, but the same data will also be able to be served through other methods including IIIF. We will also be expanding the content of OPenn from mainly medieval manuscripts to printed books and archival material.
  
