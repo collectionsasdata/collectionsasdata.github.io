@@ -4,11 +4,13 @@ title:  "Collections as Data Facets"
 ---
 ---
 
-[**Collections as Data Facets**]() document collections as data implementations. An implementation consists of the people, services, practices, technologies, and infrastructure that aim to encourage computational use of cultural heritage collections. 
+[**Collections as Data Facets**](https://collectionsasdata.github.io/facets/) document collections as data implementations. An implementation consists of the people, services, practices, technologies, and infrastructure that aim to encourage computational use of cultural heritage collections. 
 
 ---
 
-## [**Dot Porter**](http://dla.library.upenn.edu/dla/staff/record.html?id=619), University of Pennsylvania Libraries
+# [OPENN](http://openn.library.upenn.edu/)
+
+[**Dot Porter**](http://dla.library.upenn.edu/dla/staff/record.html?id=619), University of Pennsylvania Libraries
 
 ## 1. Why do it
 
