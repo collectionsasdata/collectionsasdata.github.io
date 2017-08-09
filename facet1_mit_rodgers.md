@@ -12,7 +12,6 @@ Documentation for each facet is accessible and suggests practical entry points t
 
 # [Richard Rodgers](http://libguides.mit.edu/c.php?g=176063&p=1160989), Massachusetts Institute of Technology 
 
----
 # 1. Why do it
 
  *an accessible narrative description that describes why the decision was made to do the work*
