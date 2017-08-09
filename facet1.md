@@ -8,21 +8,21 @@ title:  "Collections as Data Facets"
 
 ---
 
-[**Richard Rodgers**](http://libguides.mit.edu/c.php?g=176063&p=1160989), Massachusetts Institute of Technology 
+# [**Richard Rodgers**](http://libguides.mit.edu/c.php?g=176063&p=1160989), Massachusetts Institute of Technology 
 
-# 1. Why do it
+## 1. Why do it
 
  *an accessible narrative description that describes why the decision was made to do the work*
 
 MIT Libraries collect, curate, and provide access to numerous digital collections that comprise important research outputs and contributions to the scholarly record. Access is typically provided via traditional web applications designed for individual users in browsers.  In assessing the patterns of use of these collections, it became apparent that a significant amount of traffic was due to various automated processes that ‘scraped’ the sites, but did not identify themselves as indexing services. At the same time, we began to receive more and more direct requests from individual scholars on campus (and beyond) for bulk delivery of textual corpora in our collections, in order to perform text-mining on them.  It was clear that these ‘alternative’ uses of collections were not well served by existing access methods and systems.
 
-# 2. Making the Case 
+## 2. Making the Case 
 
 *an accessible narrative description that describes how the administrative case was made to do the work*
 
 We saw that we needed to explore how better to provide access for these kinds of use, and this need dovetailed with a broader agenda that the Libraries were pursuing of reconceiving library services as a ‘platform’: a notion articulated in recommendation 6 of the Future of the [Libraries Task Force Report](https://www.pubpub.org/pub/future-of-libraries), which specifically mentions text and data mining as important ‘non-consumptive’ uses of library-stewarded material. The platform model emphasizes empowering users to create their own discovery/access/consumption tools by providing open, standards-based, and performant APIs or other services that such tooling can leverage. So the case was made by arguing that an experiment to expose collection data via a new API designed for bulk access would teach us how to build a library platform that would increase the value of all collections. 
 
-# 3. How you did it
+## 3. How you did it
 
 *an accessible narrative description that describes how you did it; who was involved - what their roles were; what services were drawn upon; what collections were involved and why were they selected; what infrastructure and technologies were selected and why; what challenges were encountered in the course of the implementation*
 
@@ -45,13 +45,13 @@ Several challenges the project encountered, to name a few:
 * The cloud environment required considerable knowledge of deployment and orchestration tools and platforms that the team lacked. While we were able largely to surmount these deficiencies, we did so at some cost to the overall project deliverables. Our initial resource model for the project included a ‘devops’ role (unfilled) that would have greatly assisted.
 * It was difficult to identify and attract a broad variety of potential users to help define the product design. We gained valuable insight from those we engaged with, but suspected there were many more research objectives, techniques, requirements, etc that would have beneficially shaped the design of the API and the whole service. This stemmed in part from the fact that we were asking for input without a working system to react to.
 
-# 4. Share the docs 
+## 4. Share the docs 
 
 *an assortment of formal documentation (personas, use cases, functional requirements), workflows, and code you have that supports the implementation*
 
 Project documents forthcoming, but the code that was used to run the prototype is [available on Github.](https://github.com/mitlib-tdm)
 
-# 5. Understanding use 
+## 5. Understanding use 
 
 *discrete discussion of how you approach understanding use (e.g. library use, research use, pedagogical use, creative use, etc.) - discussion of exemplary use is also encouraged*
 
@@ -61,7 +61,7 @@ We learned that the metadata we exposed (academic department, completion year, d
 
 The service itself was designed to gather data about how it was used, but working against this was the desire to make the data openly available to all, without ‘user tracking’. In the end, the service emerged with a lightly tiered structure: all content was freely available, but certain advanced functions required obtaining an API key (which allowed much better analytics).
 
-# 6. Who supports use
+## 6. Who supports use
 
 *discrete discussion of the people, services, and programs that support use of the data (e.g. digital scholarship services, instruction services, subject area liaisons, etc.)*
 
@@ -71,13 +71,13 @@ Since this service obtains content from existing digitization workflows, the dig
 
 If the service were launched in production, repository managers would need to both administer the service, but also field questions and provide support for end-users (API key management, etc). In addition, the IT operations group would need to follow the standard set of practices for system backup, performance monitoring, etc. We learned that data-intensive services such as this (where gigabytes of package downloads were routine) had to be managed carefully from a resource perspective.
 
-# 7. Things people should know 
+## 7. Things people should know 
 
 *distilled things that people should know if they are thinking about pursuing similar work*
 
 One key insight we gained was the need to perform a thorough appraisal of the collection from a data completeness, uniformity, and consistency perspective: when discovery and access are confined to siloed legacy applications,  these quality dimensions may be difficult to observe.
 
-# 8. Whats next
+## 8. Whats next
 
 *you have something in place. whats next and why?* 
 
