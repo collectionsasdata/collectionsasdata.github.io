@@ -11,7 +11,7 @@ title:  "Collections as Data Facets"
 
 [**Paige Morgan**](http://www.paigemorgan.net/), University of Miami Libraries
 
-[**Elliott Williams**](http://sp.library.miami.edu/subjects/profile/e.williams10), University of Miami Libraries
+[**Elliot Williams**](http://sp.library.miami.edu/subjects/profile/e.williams10), University of Miami Libraries
 
 [**Laura Capell**](http://sp.library.miami.edu/subjects/profile/l.capell), University of Miami Libraries
 
