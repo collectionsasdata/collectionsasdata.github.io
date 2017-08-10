@@ -31,7 +31,7 @@ A facet documents a collections as data implementation. An implementation consis
 * Deborah Thomas and Nathan Yarasavage, Library of Congress
 
 [**Facet 7**](https://collectionsasdata.github.io/facet7/) - La Gaceta de la Habana
-* Paige Morgan, Elliott Williams, and Laura Capell, University of Miami Libraries
+* Paige Morgan, Elliot Williams, and Laura Capell, University of Miami Libraries
 
 [**Facet 8**](https://collectionsasdata.github.io/facet8/) - Text as Data Initiative
 * Zach Coble, Nick Wolf, and Scott Collard, New York University Libraries
