@@ -28,7 +28,7 @@ A facet documents a collections as data implementation. An implementation consis
 * Dot Porter, University of Pennsylvania Libraries
 
 [**Facet 6**](https://collectionsasdata.github.io/facet6/) - Chronicling America
-* Deborah Thomas and Nathan Yarasavage, Library of Congress
+* Deborah Thomas, Nathan Yarasavage, and Robin Butterhof, Library of Congress
 
 [**Facet 7**](https://collectionsasdata.github.io/facet7/) - La Gaceta de la Habana
 * Paige Morgan, Elliot Williams, and Laura Capell, University of Miami Libraries
