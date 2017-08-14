@@ -13,6 +13,8 @@ title:  "Collections as Data Facets"
 
 [**Nathan Yarasavage**](https://www.linkedin.com/in/nathan-yarasavage-15a9935b), Library of Congress
 
+[**Robin Butterhof**](https://www.linkedin.com/in/robinbutterhof), Library of Congress
+
 ## 1. Why do it
 
  *an accessible narrative description that describes why the decision was made to do the work*
