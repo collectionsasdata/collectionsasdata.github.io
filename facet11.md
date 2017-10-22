@@ -11,7 +11,7 @@ title:  "Collections as Data Facets"
 
 [**Michael Zarafonetis**](https://www.haverford.edu/users/mzarafon), Haverford College
 
-[**Sarah M. Horowitz**](https://www.haverford.edu/users/shorowitz)
+[**Sarah M. Horowitz**](https://www.haverford.edu/users/shorowitz), Haverford College
 
 ## 1. Why do it
 
@@ -64,4 +64,4 @@ While this was a new project for us, it is built on other work we had done. We h
 
 *you have something in place. whats next and why?* 
 
-As HathiTrust continues to grow, the HTRC Extracted Features dataset will be periodically updated with new versions. Between the first and second releases of the dataset, significant changes were made to simplify the data model that required all of the data to be re-crunched. In future releases, only new or differing files may need to undergo feature-extraction. Still, there are some issues in the existing data, primarily related to the tokenization of Chinese-, Japanese-, and Korean-language text, that HTRC plans to improve on in future releases. 
+Since all of the documents in the project are encoded in XML, we can create visualizations of many different kinds to explore the collection as a whole and the connections between people, places, and groups within it. We also hope to integrate the people, places, and organizations that have been encoded into a Quaker linked data project that we are building. This application will allow researchers to explore connections across our entire suite of Quaker projects.
