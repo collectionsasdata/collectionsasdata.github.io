@@ -3,9 +3,9 @@ layout: archive
 title:  "Resources"
 ---
 ---
-[Collections as Data Facets](https://collectionsasdata.github.io/facets/)
-
 [The Santa Barbara Statement on Collections as Data](https://collectionsasdata.github.io/statement/)
+
+[Collections as Data Facets](https://collectionsasdata.github.io/facets/)
 
 [Collections as Data Personas](https://drive.google.com/drive/folders/0B8ETyFnKCnQSNVRNeGpXMjl5bkk?usp=sharing)
 
