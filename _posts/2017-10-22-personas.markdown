@@ -1,0 +1,27 @@
+---
+layout: article
+title:  "Collections as Data Personas"
+date:   2017-10-22 
+teaser: "Collections as Data Personas"
+---
+---
+
+[**Collections as Data (CAD) Personas**](https://drive.google.com/drive/folders/0B8ETyFnKCnQSNVRNeGpXMjl5bkk?usp=sharing) represent an initial set of high level roles associated with collections as data activity. While distinctions are fuzzy in the context of disciplinary and professional praxis, roles represented by personas can generally be understood in alignment with data stewardship or use. On the whole, personas aim to surface needs, motivations, and goals in context. These representations are derived from Collections as Data [**project engagements**](https://collectionsasdata.github.io/events/).   
+
+In [**Agile software development**](https://en.wikipedia.org/wiki/Agile_software_development), a persona is used to help develop a broadly shared orientation to user experience. [**Gary Geisler**](http://ggeisler.com/ux-design.html) has written,  [*“Personas offer a way to summarize findings from user research and help determine user requirements and priorities. These documents help project teams develop a common understanding of a project's intended audience and priorities. They also serve as a useful reference for design decisions throughout the development process.”*]
+
+Of course, the Agile notion of a persona need not be limited to supporting software or system design. After all, collections as data work depends upon a range institutional services and the people that do not fit easily within that scope. Collections as data is not purely technological in nature. In the context of collections as data, the persona is used to represent a broad scope of activity. Development of personas adds but another approach to enriching our understanding of CAD oriented work in contemporary cultural heritage settings. 
+
+# Resources
+
+[**Personas**](https://drive.google.com/drive/folders/0B8ETyFnKCnQSNVRNeGpXMjl5bkk?usp=sharing) 
+
+# Call for Submissions
+
+We welcome submission of additional personas derived from your context and community needs. Personas can describe all manner of roles and contributions from a range of sources are encouraged, e.g. libraries, museums, archives, research centers, academic departments, and institutionally unaffiliated parties. 
+
+**The next round of personas are due by December 15, 2017.** 
+
+Submissions should follow the [**persona template**](https://docs.google.com/document/d/1_i4DEggmZDzZ_JXIIZdwF7M4bMjR36W9Vk2pjZtCho0/edit).
+
+Submit personas to Hannah Frost - hfrost@stanford.edu
