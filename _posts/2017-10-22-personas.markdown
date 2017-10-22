@@ -10,7 +10,7 @@ teaser: "Collections as Data Personas"
 
 In [**Agile software development**](https://en.wikipedia.org/wiki/Agile_software_development), a persona is used to help develop a broadly shared orientation to user experience. [**Gary Geisler**](http://ggeisler.com/ux-design.html) has written,  *“Personas offer a way to summarize findings from user research and help determine user requirements and priorities. These documents help project teams develop a common understanding of a project's intended audience and priorities. They also serve as a useful reference for design decisions throughout the development process.”*
 
-Of course, the Agile notion of a persona need not be limited to supporting software or system design. After all, collections as data work depends upon institutional services and people who do not fit easily within that scope. In the context of collections as data, the persona is used to represent a broad scope of CAD relevant activity. Development of personas adds but [**another approach**](https://collectionsasdata.github.io/resources/) to enriching our understanding of CAD oriented work in contemporary cultural heritage settings. 
+Of course, the Agile notion of a persona need not be limited to supporting software or system design. After all, collections as data work depends upon institutional services and people who do not fit easily within that scope. Development of personas provides but [**another resouce**](https://collectionsasdata.github.io/resources/) for expanding our understanding of CAD oriented work in contemporary cultural heritage settings. 
 
 # Resources
 
