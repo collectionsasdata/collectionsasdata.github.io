@@ -7,8 +7,7 @@ title:  "Collections as Data Facets"
 [**Collections as Data Facets**](https://collectionsasdata.github.io/facets/) document collections as data implementations. An implementation consists of the people, services, practices, technologies, and infrastructure that aim to encourage computational use of cultural heritage collections. 
 
 ---
-# [The Museum of Modern Art Exhibition Index](https://github.com/MuseumofModernArt/exhibitions
-)
+# [The Museum of Modern Art Exhibition Index](https://github.com/MuseumofModernArt/exhibitions)
 
 [**Jonathan Lill**](https://www.moma.org/research-and-learning/research-resources/archives/index), MoMA Archives
 
