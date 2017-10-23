@@ -39,11 +39,26 @@ A facet documents a collections as data implementation. An implementation consis
 [**Facet 9**](https://collectionsasdata.github.io/facet9/) - #HackFSM
 * Mary Elings and Quinn Dombrowski, University of California Berkeley
 
+[**Facet 10**](https://collectionsasdata.github.io/facet10/) - HathiTrust Research Center Extracted Features Dataset
+* Eleanor Dickson, University of Illinois at Urbana Champaign
+
+[**Facet 11**](https://collectionsasdata.github.io/facet11/) - Beyond Penn's Treaty
+* Michael Zarafonetis and Sarah M. Horowitz, Haverford College
+
+[**Facet 12**](https://collectionsasdata.github.io/facet12/) - Ticha: A Digital Text Explorer for Colonial Zapotec
+* Brook Lillehaugen and Michael Zarafonetis, Haverford College 
+
+[**Facet 13**](https://collectionsasdata.github.io/facet13/) - Vanderbilt Library Legacy Data Projects
+* Veronica Ikeshoji-Orlati, Vanderbilt University
+
+[**Facet 14**](https://collectionsasdata.github.io/facet14/) - The Museum of Modern Art Exhibition Index
+* Jonathan Lill, MoMA Archives
+
 # Call for Submissions
 
 We welcome submission of additional facets. Facets can describe scalable, non-scalable, experimental, work in progress, and permanent collections as data implementations. Facets from a range of sources are encouraged, e.g. libraries, museums, archives, research centers, academic departments. 
 
-**The next round of facets are due by September 29, 2017.** 
+**The next round of facets are due by January 15, 2018.** 
 
 Submissions should follow the [Facet template](https://docs.google.com/document/d/1_i4DEggmZDzZ_JXIIZdwF7M4bMjR36W9Vk2pjZtCho0/edit). 
 
