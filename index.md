@@ -13,7 +13,7 @@ Stay up to date with project activities and connect with others on collections a
  
 # Contact  
 
-Thomas Padilla, <thomaspadilla@ucsb.edu>
+Thomas Padilla, <thomas.padilla@unlv.edu>
 
 # Code of Conduct
 
