@@ -3,7 +3,8 @@ layout: article
 title:  "Collections as Data & Information Literacy"
 date:   2017-12-06 
 teaser: "Collections as Data & Information Literacy"
-
+---
+---
 John Russell (Penn State University) and Allyssa Bruce (Kansas State University)
 
 *The Collections as Data team is pleased to share a guest post by John Russell and Allyssa Bruce. In October 2017, John taught [Humanities Librarianship in a Digital Age](http://libraryjuiceacademy.com/156-humanities-digital.php) for Library Juice Academy. The second week of the course focused on the [Santa Barbara Statement on Collections as Data](https://collectionsasdata.github.io/statement/), asking the students to reflect on what it means to think about humanities collections as data (or sources of data) and to respond to the statement generally. Allyssa was one of the students in the course and she noted a connection between the statement’s principles and the [ACRL Framework for Information Literacy for Higher Education](http://www.ala.org/acrl/standards/ilframework). The following post is an initial attempt by John and Allyssa to think through the connections between information literacy and collections as data.*
