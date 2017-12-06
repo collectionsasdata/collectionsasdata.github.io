@@ -4,8 +4,6 @@ title:  "Collections as Data & Information Literacy"
 date:   2017-12-6 
 teaser: "Collections as Data & Information Literacy"
 ---
----
-John Russell (Penn State University) and Allyssa Bruce (Kansas State University)
 
 *The Collections as Data team is pleased to share a guest post by [**John Russell**](https://twitter.com/johnruss28) and [**Allyssa Bruce**](https://twitter.com/allyssabruce). In October 2017, John taught [**Humanities Librarianship in a Digital Age**](http://libraryjuiceacademy.com/156-humanities-digital.php) for Library Juice Academy. The second week of the course focused on the [**Santa Barbara Statement on Collections as Data**](https://collectionsasdata.github.io/statement/), asking the students to reflect on what it means to think about humanities collections as data (or sources of data) and to respond to the statement generally. Allyssa was one of the students in the course and she noted a connection between the statement’s principles and the [**ACRL Framework for Information Literacy for Higher Education**](http://www.ala.org/acrl/standards/ilframework). The following post is an initial attempt by John and Allyssa to think through the connections between information literacy and collections as data.*
 
@@ -29,5 +27,6 @@ As students advance in expertise, they can build on these initial questions and 
 
 The Santa Barbara Statement presents principles that are centered on the ethical responsibility cultural heritage institutions have in contextualizing their data collections. When collections are accompanied with documentation that provides information describing provenance, ethical issues, data collection methods, and instructional material, cultural heritage institutions directly address issues of authority by ensuring that users can understand data collection contexts. Additionally, this documentation supports students learning information literacy by helping them to consider what perspectives are present, whose are missing, how access is connected to privilege, and what the answers to these questions imply. 
 
+John Russell (Penn State University) and Allyssa Bruce (Kansas State University)
 
 
