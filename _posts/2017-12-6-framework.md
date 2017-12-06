@@ -1,7 +1,7 @@
 ---
 layout: article
 title:  "Collections as Data & Information Literacy"
-date:   2017-12-06 
+date:   2017-12-6 
 teaser: "Collections as Data & Information Literacy"
 ---
 ---
