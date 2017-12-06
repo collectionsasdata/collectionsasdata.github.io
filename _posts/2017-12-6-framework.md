@@ -10,7 +10,8 @@ teaser: "Collections as Data & Information Literacy"
 
 ---
 
-##Collections as Data & Information Literacy
+## Collections as Data & Information Literacy
+John Russell (Penn State University) and Allyssa Bruce (Kansas State University)
 
 [**The Santa Barbara Statement on Collections as Data**](https://collectionsasdata.github.io/statement/) proposes a set of principles aimed at cultural heritage institutions building digital collections. A number of the principles encourage us to expand how we think of collection access by suggesting inclusion of instructional material and documentation that “helps others find a path to doing the work” **(principle 6)**. That the Santa Barbara Statement makes such a close connection between the collection and instruction aspects of librarianship is an exciting development and something worth exploring more. As we engaged with these principles, we came to appreciate that they speak to information literacy efforts and intersect with the [**ACRL Framework for Information Literacy for Higher Education**](http://www.ala.org/acrl/standards/ilframework). While we believe that it is generative and beneficial to read the entirety of the Santa Barbara Statement through the ACRL Framework and vice versa, in this space we will just tease out how to think through one frame, Authority is Constructed and Contextual, in terms of the Statement’s principles.
 
@@ -30,6 +31,5 @@ As students advance in expertise, they can build on these initial questions and 
 
 The Santa Barbara Statement presents principles that are centered on the ethical responsibility cultural heritage institutions have in contextualizing their data collections. When collections are accompanied with documentation that provides information describing provenance, ethical issues, data collection methods, and instructional material, cultural heritage institutions directly address issues of authority by ensuring that users can understand data collection contexts. Additionally, this documentation supports students learning information literacy by helping them to consider what perspectives are present, whose are missing, how access is connected to privilege, and what the answers to these questions imply. 
 
-John Russell (Penn State University) and Allyssa Bruce (Kansas State University)
 
 
