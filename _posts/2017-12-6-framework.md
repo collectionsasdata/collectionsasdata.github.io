@@ -23,9 +23,9 @@ Central to the ethical core of the Santa Barbara Statement and the “Authority 
 
 Seeing principled collection documentation as instructional also helps clarify the ways our collections can connect with our instruction program. Knowledge of the Santa Barbara Statement principles can help with instruction based on digital collections, creating a baseline that can be used to assess digital sources. First, students can use the principles as a way to evaluate collections and work through questions such as:
 
-*Whose voices/perspectives are most prevalent in the collection?
-*Whose voices/perspectives are missing (that are relevant to the subject matter)?
-*Who can access these collections and why?
+* Whose voices/perspectives are most prevalent in the collection?
+* Whose voices/perspectives are missing (that are relevant to the subject matter)?
+* Who can access these collections and why?
 
 As students advance in expertise, they can build on these initial questions and begin thinking about how to amplify certain perspectives or otherwise try to imagine what kinds of sources would help complete (or make more ethical) the collection in question; they can also consider how these factors inform the creation of research questions. More advanced engagement could involve having students formally work with institutional collections to identify sources and create ethical and principled data collections.
 
