@@ -4,7 +4,7 @@ title:  "Events"
 ---
 ---
 
-**Collections as Data**,[American Historical Association](https://www.historians.org/annual-meeting/resources-and-guides/digital-history-at-the-annual-meeting/getting-started-in-digital-history-2018), January 4, 2018
+**Collections as Data**, [American Historical Association](https://www.historians.org/annual-meeting/resources-and-guides/digital-history-at-the-annual-meeting/getting-started-in-digital-history-2018), January 4, 2018
 
 ---
 **Planned**
@@ -38,4 +38,4 @@ Digital Library Federation, 2018
 
 [**Collections as Data and Samvera**](http://connect2017.samvera.org/), November 9, 2017
 
-[**Collections as Data**]](https://www.cni.org/events/membership-meetings/past-meetings/fall-2017/project-briefings-breakout-sessions-f17), Coalition for Network Information, December 11, 2017
+[**Collections as Data**](https://www.cni.org/events/membership-meetings/past-meetings/fall-2017/project-briefings-breakout-sessions-f17), Coalition for Network Information, December 11, 2017
