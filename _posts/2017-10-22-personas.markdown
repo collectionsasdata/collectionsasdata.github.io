@@ -20,8 +20,6 @@ The Agile notion of a persona need not be limited to supporting software or syst
 
 We welcome submission of additional personas derived from your context and community needs. Contributions from a range of sources are encouraged, e.g. libraries, museums, archives, research centers, academic departments, institutionally unaffiliated parties, and more. 
 
-**The next round of personas are due by December 15, 2017.** 
-
 Submissions should follow the [**persona template**](https://docs.google.com/document/d/1HEev7XsLAIwkTPM6pqc0lXuIV28fNXLVog-Cb7AUOck/edit?usp=sharing).
 
 Submit personas to Hannah Frost - hfrost@stanford.edu
