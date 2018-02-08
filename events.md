@@ -4,7 +4,9 @@ title:  "Events"
 ---
 ---
 
-[**NICAR, 2018**](https://ire.org/conferences/nicar18/)
+[**NICAR, 2018**](https://ire.org/conferences/nicar18/), March 10 2018
+
+DPLA Members Meeting, March 13-14 2018
 
 ---
 **Planned**
