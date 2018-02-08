@@ -8,6 +8,8 @@ title:  "Events"
 
 DPLA Members Meeting, March 13-14 2018
 
+National Forum 2, University of Nevada Las Vegas, May 7-8 2018
+
 ---
 **Planned**
 
