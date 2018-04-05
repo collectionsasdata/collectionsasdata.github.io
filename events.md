@@ -4,16 +4,11 @@ title:  "Events"
 ---
 ---
 
-[**NICAR**](https://ire.org/conferences/nicar18/), March 10 2018
-
-DPLA Members Meeting, March 13-14 2018
-
-National Forum 2, University of Nevada Las Vegas, May 7-8 2018
-
----
 **Planned**
 
 Open Repositories, 2018 
+
+National Forum 2, University of Nevada Las Vegas, May 7-8 2018
 
 Digital Library Federation, 2018 
 
@@ -43,3 +38,9 @@ Digital Library Federation, 2018
 [**Collections as Data**](https://www.cni.org/events/membership-meetings/past-meetings/fall-2017/project-briefings-breakout-sessions-f17), Coalition for Network Information, December 11, 2017
 
 **Collections as Data**, [American Historical Association](https://www.historians.org/annual-meeting/resources-and-guides/digital-history-at-the-annual-meeting/getting-started-in-digital-history-2018), January 4, 2018
+
+[**NICAR**](https://ire.org/conferences/nicar18/), March 10 2018
+
+DPLA Members Meeting, March 13-14 2018
+
+LDCX, March 28 2018 
