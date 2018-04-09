@@ -44,7 +44,7 @@ University and Political Papers Archivist, University of California Riverside
 City University of New York 
 
 [**Inna Kouper**](https://www.sice.indiana.edu/all-people/profile.html?profile_id=42)<br/>
-Assistant Scientist, School of Informatics, Computer, and Engineering, Indiana University
+Assistant Scientist, School of Informatics, Computer, and Engineering, Indiana University<br/>
 Assistant Director, Data to Insight Center, Indiana University
 
 [**Mark Matienzo**](https://matienzo.org/)<br/>
@@ -54,7 +54,7 @@ Collaboration & Interoperability Architect, Stanford University
 Head of The Wikipedia Library, Wikimedia Foundation
 
 [**Sarah Patterson**](https://www.umass.edu/english/member/sarah-patterson)<br/>
-Lecturer, Department of English, University of Massachusetts Amherst
+Lecturer, Department of English, University of Massachusetts Amherst<br/>
 Co-Founder, Colored Conventions
 
 [**Dot Porter**](http://dla.library.upenn.edu/dla/staff/record.html?id=619)<br/>
