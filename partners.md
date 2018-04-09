@@ -4,13 +4,86 @@ title:  "Partners"
 ---
 ---
 
+##Forum 2 (2018)
+
+[**Elvia Arroyo Ramirez**](https://www.linkedin.com/in/elvia-arroyo-ramirez-1a1b3451/)<br/>
+Assistant University Archivist, University of California Irvine
+
+[**Shawn Averkamp**](https://www.linkedin.com/in/shawnaverkamp/)<br/>
+Manager of Metadata Services, New York Public Library 
+
+[**Helen Bailey**](https://about.me/hbailey)<br/>
+Engagement Data Engineer, Massachusetts Institute of Technology
+
+[**Alex Chassanoff**](https://softarchitectures.wordpress.com/)<br/>
+CLIR/DLF Postdoctoral Fellow in Software Curation, Massachusetts Institute of Technology
+
+[**Kalani Craig**](http://www.kalanicraig.com/)<br/>
+Clinical Assistant Professor, Department of History, Indiana University
+Co-Director, Institute for Digital Arts & Humanities, Indiana University
+
+[**Greg Cram**](https://www.linkedin.com/in/gregcram/)<br/>
+Associate Director of Copyright and Information Policy, New York Public Library
+
+[**Mary Elings**](http://update.lib.berkeley.edu/2018/03/29/the-bancroft-library-announces-new-head-of-technical-services/)<br/>
+Head of Technical Services, The Bancroft Library, University of California Berkeley
+
+[**Meghan Ferriter**](http://meghaninmotion.com/)<br/>
+Senior Innovation Specialist, Library of Congress
+
+[**Devin Higgins**](http://staff.lib.msu.edu/higgi135/)<br/>
+Digital Library Programmer, Michigan State University
+
+[**Veronica Ikeshoji-Orlati**](http://vikeshojiorlati.com/)<br/>
+CLIR Postdoctoral Fellow, Vanderbilt University
+
+[**Bergis Jules**](https://library.ucr.edu/about/directory/staff/bergis-jules)<br/>
+University and Political Papers Archivist, University of California Riverside
+
+[**Micki Kaufman**](https://www.mickikaufman.com/)<br/>
+City University of New York 
+
+[**Inna Kouper**](https://www.sice.indiana.edu/all-people/profile.html?profile_id=42)<br/>
+Assistant Scientist, School of Informatics, Computer, and Engineering, Indiana University
+Assistant Director, Data to Insight Center, Indiana University
+
+[**Mark Matienzo**](https://matienzo.org/)<br/>
+Collaboration & Interoperability Architect, Stanford University
+
+[**Jake Orlowitz**](https://www.linkedin.com/in/jake-orlowitz-58321656/)<br/>
+Head of The Wikipedia Library, Wikimedia Foundation
+
+[**Sarah Patterson**](https://www.umass.edu/english/member/sarah-patterson)<br/>
+Lecturer, Department of English, University of Massachusetts Amherst
+Co-Founder, Colored Conventions
+
+[**Dot Porter**](http://dla.library.upenn.edu/dla/staff/record.html?id=619)<br/>
+Curator of Digital Research Services, University of Pennsylvania
+
+[**Miriam Posner**](http://miriamposner.com/)<br/>
+Assistant Professor, Information Studies, University of California Los Angeles
+
+[**Chaitra Powell**](https://library.unc.edu/about/staff/chaitra-powell/)<br/>
+African American Collections and Outreach Archivist, University of North Carolina Chapel Hill
+
+[**Chela Scott Weber**](https://www.linkedin.com/in/chela-scott-weber-b5816a127/)<br/>
+Director of Library and Collections, California Historical Society
+
+[**Hannah Scates Kettler**](https://hannahscateskettler.com/)<br/>
+Digital Humanities Research and Instruction Librarian, University of Iowa
+
+[**Laura Wrubel**](https://library.gwu.edu/users/Wrubel)<br/>
+Software Development Librarian, George Washington University
+
+##Forum 1 (2017)
+
 [**John Ajao**](https://www.linkedin.com/in/johnajao//)<br/>
 Director Systems and Repository Operations, University of California Santa Barbara
 
 [**Jefferson Bailey**](http://www.jeffersonbailey.com/)<br/>
 Head of Web Archiving Programs, Internet Archive
 
-[**Alexandra Chassanoff**](https://libraries.mit.edu/news/alexandra-chassanoff/22151/)<br/>
+[**Alex Chassanoff**](https://softarchitectures.wordpress.com/)<br/>
 Software Curation Postdoctoral Fellow, Massachusetts Institute of Technology 
 
 [**Tanya Clement**](http://tanyaclement.org/)<br/>
