@@ -19,7 +19,7 @@ Engagement Data Engineer, Massachusetts Institute of Technology
 CLIR/DLF Postdoctoral Fellow in Software Curation, Massachusetts Institute of Technology
 
 [**Kalani Craig**](http://www.kalanicraig.com/)<br/>
-Clinical Assistant Professor, Department of History, Indiana University
+Clinical Assistant Professor, Department of History, Indiana University<br/>
 Co-Director, Institute for Digital Arts & Humanities, Indiana University
 
 [**Greg Cram**](https://www.linkedin.com/in/gregcram/)<br/>
