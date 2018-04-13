@@ -4,7 +4,7 @@ title:  "Partners"
 ---
 ---
 
-## Forum 2 (2018)
+## Forum 2 (May 7-8 2018)
 
 [**Elvia Arroyo Ramirez**](https://www.linkedin.com/in/elvia-arroyo-ramirez-1a1b3451/)<br/>
 Assistant University Archivist, University of California Irvine
@@ -75,7 +75,7 @@ Digital Humanities Research and Instruction Librarian, University of Iowa
 [**Laura Wrubel**](https://library.gwu.edu/users/Wrubel)<br/>
 Software Development Librarian, George Washington University
 
-## Forum 1 (2017)
+## Forum 1 (February 28 - March 3 2017)
 
 [**John Ajao**](https://www.linkedin.com/in/johnajao//)<br/>
 Director Systems and Repository Operations, University of California Santa Barbara
