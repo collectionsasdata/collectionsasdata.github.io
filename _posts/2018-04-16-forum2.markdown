@@ -1,7 +1,7 @@
 ---
 layout: article
 title:  "Collections as Data: National Forum 2"
-date:   2017-8-2 
+date:   2018-4-16 
 teaser: "Collections as Data: National Forum 2"
 ---
 ---
@@ -16,7 +16,7 @@ May 7 will feature a livestreamed portion (link forthcoming) that includes a Col
 
 **Panel 2 - Micki Kaufman (CUNY), Inna Kouper (Indiana), Greg Cram (NYPL), Laurie Allen (University of Pennsylvania)**
 
-*What is the coolest thing about your collections as data work? Tell us why you became involved with this work and what motivates your continued dedication or interest. We'd like to show our attendees the spirit and possibilities of collections as data work.*
+`What is the coolest thing about your collections as data work? Tell us why you became involved with this work and what motivates your continued dedication or interest. We'd like to show our attendees the spirit and possibilities of collections as data work.`
 
 **Panel 3 - Meghan Ferriter (Library of Congress), Mary Elings (UC Berkeley), Helen Bailey (MIT), Veronica Ikeshoji-Orlati (Vanderbilt)**
 
