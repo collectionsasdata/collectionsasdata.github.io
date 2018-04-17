@@ -1,7 +1,7 @@
 ---
 layout: article
 title:  "Collections as Data: National Forum 2"
-date:   2018-4-16 
+date:   2018-4-18 
 teaser: "Collections as Data: National Forum 2"
 ---
 ---
@@ -12,7 +12,7 @@ May 7 will feature a livestreamed portion (link forthcoming) that includes a Col
 
 **Panel 1 - Miriam Posner (UCLA), Shawn Averkamp (NYPL), Bergis Jules (UC Riverside), Dot Porter (University of Pennsylvania)**
 
-*Who are Collections as Data for? Building on Principle 5, the forthcoming version of the [**Santa Barbara Statement on Collections as Data**](https://collectionsasdata.github.io/statement/) will assert that "Collections as data designed for everyone serve no one." How has your work with CaD been forged around specific people, whether those represented in the collections, built into the design of the dataset, or reflected in your own teaching and/or learning? What work have you done to match CaD with populations?*
+*Who are collections as data for? The forthcoming version of the [**Santa Barbara Statement on Collections as Data**](https://collectionsasdata.github.io/statement/) will assert that "Collections as data designed for everyone serve no one." How has your work with collections as data been forged around specific people, whether those represented in the collections, built into the design of the dataset, or reflected in your own teaching and/or learning? What work have you done to match collections as data with populations?*
 
 **Panel 2 - Micki Kaufman (CUNY), Inna Kouper (Indiana), Greg Cram (NYPL), Laurie Allen (University of Pennsylvania)**
 
