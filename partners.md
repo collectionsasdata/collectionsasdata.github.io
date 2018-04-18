@@ -6,7 +6,7 @@ title:  "Partners"
 
 ## Forum 2 (May 7-8 2018)
 
-[**Elvia Arroyo Ramirez**](https://www.linkedin.com/in/elvia-arroyo-ramirez-1a1b3451/)<br/>
+[**Elvia Arroyo Ramirez**](https://www.faculty.uci.edu/profile.cfm?faculty_id=6411)<br/>
 Assistant University Archivist, University of California Irvine
 
 [**Shawn Averkamp**](https://www.linkedin.com/in/shawnaverkamp/)<br/>
