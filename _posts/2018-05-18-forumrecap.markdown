@@ -12,7 +12,7 @@ On May 7-8, 2018, the project team of “Always Already Computational: Collectio
 
 The forum opened with eleven presentations by  forum participants active in collections as data; several of these projects have been published as Collections as Data Facets. The panels were livestreamed to a public audience. The panel line-up and prompts can be found at: https://collectionsasdata.github.io/forum2/, and the livestream recording is available here: https://www.youtube.com/watch?v=ENaPV2XmO9I
 
-[![Forum 2 Livestream](https://github.com/collectionsasdata/collectionsasdata.github.io/blob/master/_posts/forum2_livestream.png)](https://www.youtube.com/watch?v=ENaPV2XmO9I)
+[![Forum 2 Livestream](http://collectionsasdata.github.io/forum2_livestream.png)](https://www.youtube.com/watch?v=ENaPV2XmO9I)
 
 At the risk of oversimplifying the content, we want to share out a brief summary of the proceedings, beginning with a taste of these exceptional presentations. 
 
