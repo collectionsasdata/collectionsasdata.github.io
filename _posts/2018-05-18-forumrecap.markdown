@@ -6,11 +6,11 @@ teaser: "Recap - Collections as Data: National Forum 2"
 ---
 ---
 
-On May 7-8, 2018, the project team of “Always Already Computational: Collections as Data” hosted a forum with an expert group of librarians, archivists, researchers, and technologists at the University of Nevada, Las Vegas. The goals of the forum were twofold: (1) to provide a public program showcasing the opportunities and questions that emerge in the creation, management and use of collections as data; and (2) to draw on the collective expertise and wisdom of the invited participants in order to “reality check” the project’s direction and in-progress deliverables. 
+On May 7-8, 2018, the project team of *Always Already Computational: Collections as Data* hosted a forum with an [**expert group**](https://collectionsasdata.github.io/partners/) of librarians, archivists, researchers, and technologists at the University of Nevada, Las Vegas. The goals of the forum were twofold: **(1)** to provide a public program showcasing the opportunities and questions that emerge in the creation, management and use of collections as data; and **(2)** to draw on the collective expertise and wisdom of the invited participants in order to “reality check” the project’s direction and in-progress deliverables. 
 
 **Public Program**
 
-The forum opened with eleven presentations by  forum participants active in collections as data; several of these projects have been published as [**Collections as Data Facets**](https://collectionsasdata.github.io/facets/). The panels were livestreamed to a public audience. The panel line-up and prompts can be found [**here**](https://collectionsasdata.github.io/forum2/), and the livestream recording is available below.  
+The forum opened with eleven presentations by  forum participants active in collections as data; several of these projects have been published as [**Collections as Data Facets**](https://collectionsasdata.github.io/facets/). The panels were livestreamed to a public audience. The panel line-up and prompts can be found [**here**](https://collectionsasdata.github.io/forum2/). The livestream recording is available below.  
 
 [![Forum 2 Livestream](http://collectionsasdata.github.io/forum2_livestream.png)](https://www.youtube.com/watch?v=ENaPV2XmO9I)
 
