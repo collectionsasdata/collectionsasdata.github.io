@@ -1,8 +1,8 @@
 ---
 layout: article
-title:  "Collections as Data: National Forum 2"
-date:   2018-4-18 
-teaser: "Collections as Data: National Forum 2"
+title:  "Recap - Collections as Data: National Forum 2"
+date:   2018-5-18 
+teaser: "Recap - Collections as Data: National Forum 2"
 ---
 ---
 
