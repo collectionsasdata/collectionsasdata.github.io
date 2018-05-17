@@ -6,7 +6,7 @@ teaser: "Recap - Collections as Data: National Forum 2"
 ---
 ---
 
-On May 7-8, 2018, the project team of *Always Already Computational: Collections as Data* hosted a forum with an [**expert group**](https://collectionsasdata.github.io/partners/) of librarians, archivists, researchers, and technologists at the University of Nevada, Las Vegas. The goals of the forum were twofold: **(1)** to provide a public program showcasing the opportunities and questions that emerge in the creation, management and use of collections as data; and **(2)** to draw on the collective expertise and wisdom of the invited participants in order to “reality check” the project’s direction and in-progress deliverables. 
+On May 7-8, 2018 *Always Already Computational: Collections as Data* hosted a second national forum with an [**expert group**](https://collectionsasdata.github.io/partners/) of librarians, archivists, researchers, and technologists at the University of Nevada, Las Vegas. The goals of the forum were twofold: **(1)** to provide a public program showcasing the opportunities and questions that emerge in the creation, management and use of collections as data; and **(2)** to draw on the collective expertise and wisdom of the invited participants in order to “reality check” the project’s direction and in-progress deliverables. 
 
 **Public Program**
 
