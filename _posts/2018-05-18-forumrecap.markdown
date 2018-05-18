@@ -62,4 +62,8 @@ To close out, we would like to express our thanks.  Thank you to the forum parti
 
 ---
 
-Hannah Frost *and* Stewart Varner 
+Hannah Frost
+
+Stewart Varner 
+
+Sarah Potvin
