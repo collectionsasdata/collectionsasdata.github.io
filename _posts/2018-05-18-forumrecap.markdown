@@ -61,4 +61,5 @@ One important theme that was present across all three activities was not so much
 To close out, we would like to express our thanks.  Thank you to the forum participants - we appreciate the time you took to share your experience with the project and the broader community. Thank you to the Institute of Museum and Library Services for your support. Finally, thank you to the University of Nevada Las Vegas Libraries for hosting the forum - special thanks to Amy Gros-Louis, Lonnie Marshall, and Kee Choi for everything they did to make the forum a success.   
 
 Hannah Frost
+
 Stewart Varner 
