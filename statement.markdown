@@ -3,7 +3,7 @@ layout: archive
 title:  "The Santa Barbara Statement on Collections as Data"
 ---
 
-*The statement was written by the Always Already Computational: Collections as Data project team. The [first version](https://collectionsasdata.github.io/statementv1/) was based on the collaborative work of [National Forum](https://collectionsasdata.github.io/nominations/) attendees at UC Santa Barbara, March 1-3 2017. After its release, the team gathered public comments from the Hypothesis web annotation tool and sought statement feedback in a [series of conversations and workshops]( https://collectionsasdata.github.io/events/) from April 2017 - April 2018. The statement was revised based on that community feedback, especially the close, directed feedback provided by workshop participants at the Digital Library Federation Forum 2017.*
+*This statement was written by the Always Already Computational: Collections as Data project team. The [first version](https://collectionsasdata.github.io/statementv1/) was based on the collaborative work of [National Forum](https://collectionsasdata.github.io/nominations/) attendees at UC Santa Barbara, March 1-3 2017. After its release, the team gathered public comments from the Hypothesis web annotation tool and sought statement feedback in a [series of conversations and workshops]( https://collectionsasdata.github.io/events/) from April 2017 - April 2018. The statement was revised based on that community feedback, especially the close, directed feedback provided by workshop participants at the Digital Library Federation Forum 2017.*
 
 [***Learn more about the statement.***](https://collectionsasdata.github.io/devstatement/) 
 
