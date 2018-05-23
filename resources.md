@@ -3,7 +3,7 @@ layout: archive
 title:  "Resources"
 ---
 ---
-[The Santa Barbara Statement on Collections as Data](https://collectionsasdata.github.io/statement/) - [v1](https://collectionsasdata.github.io/statementv1/),[v2](https://collectionsasdata.github.io/statement/)
+[The Santa Barbara Statement on Collections as Data](https://collectionsasdata.github.io/statement/) - [v.1](https://collectionsasdata.github.io/statementv1/),[v.2](https://collectionsasdata.github.io/statement/)
 
 [Collections as Data Facets](https://collectionsasdata.github.io/facets/)
 
