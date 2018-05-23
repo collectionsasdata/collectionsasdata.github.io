@@ -1,11 +1,15 @@
 ---
 layout: archive
-title:  "The Santa Barbara Statement on Collections as Data"
+title:  "The Santa Barbara Statement on Collections as Data (v1)"
 ---
 
 [***Learn more about the statement.***](https://collectionsasdata.github.io/devstatement/) 
 
-*Statement comments and suggestions are encouraged. Annotate any portion of the text by highlighting it. If you’d rather send comments and suggestions directly, please submit via [**this form**](https://docs.google.com/forms/d/e/1FAIpQLScomC9tex3RHMQRTwOLfxSRFq14i5nnov7Km149qvCUO7JDpA/viewform?usp=sf_link). Alternatively, comments and discussion are welcome on the [**Collections as Data Google Group**](https://groups.google.com/forum/#!forum/collectionsasdata). The first statement development period will run through summer and fall 2017. The next version of the statement will be shared by January 2018.*
+*This page reflects The Santa Barbara Statement on Collections as Data (v1). Development on this version concluded in Spring 2018 and was superseded by [**this version**](https://collectionsasdata.github.io/statement/) post integration of community feedback.*
+
+---
+
+*Statement comments and suggestions are encouraged. Annotate any portion of the text by highlighting it. If you’d rather send comments and suggestions directly, please submit via [**this form**](https://docs.google.com/forms/d/e/1FAIpQLScomC9tex3RHMQRTwOLfxSRFq14i5nnov7Km149qvCUO7JDpA/viewform?usp=sf_link). Alternatively, comments and discussion are welcome on the [**Collections as Data Google Group**](https://groups.google.com/forum/#!forum/collectionsasdata). The first statement development period will run through summer and fall 2017. The next version of the statement will be shared Spring 2018.*
 
 ---
 ![](http://collectionsasdata.github.io/affinity.gif)
