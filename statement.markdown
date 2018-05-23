@@ -36,7 +36,7 @@ Ethical concerns are integral to collections as data. Collections as data should
 
 8. **Collections as data stewards work transparently in order to develop trustworthy, long-lived collections.** Trustworthiness depends upon efforts to ensure and publicly document the technical integrity of the data as well as its provenance. It also requires that data stewards acknowledge absences and areas of uncertainty within the collection as data. Trustworthy collections as data should include open, robust metadata, and should be under the care of stewards and institutions committed to their preservation.
 
-9. **Data as well as the data that describe those data are considered within scope.** For example, images and the metadata, finding aids, and/or catalogs that describe them are equally in scope. Data resulting from the analysis of those data are also in scope.
+9. **Data as well as the data that describe those data are considered in scope.** For example, images and the metadata, finding aids, and/or catalogs that describe them are equally in scope. Data resulting from the analysis of those data are also in scope.
 
 10. **The development of collections as data is an ongoing process and does not necessarily conclude with a final version.** Work in progress status can be seen as a virtue when iteration is geared toward developing productive collaborations and integrations between new and existing technologies, workflows, and service models. The ongoing development of collections as data can impact staffing models, workflows, and technical infrastructure.
 
