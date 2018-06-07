@@ -6,14 +6,14 @@ title:  "Events"
 
 **Planned**
 
-Open Repositories, 2018 
-
-National Forum 2, University of Nevada Las Vegas, May 7-8 2018
-
 Digital Library Federation, 2018 
 
 ---
 **Completed**
+
+Open Repositories, 2018 
+
+National Forum 2, University of Nevada Las Vegas, May 7-8 2018
 
 **National Forum**, University of California Santa Barbara, March 1-3 2017<br/>
 
