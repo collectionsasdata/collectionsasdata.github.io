@@ -15,6 +15,8 @@ Panelists **Helen Bailey** (MIT), **Kate Lynch** (UPenn), and **Mark Jordan** (S
 
 For the full experience [**watch a recording**](https://youtu.be/2_3gc-_TBL8?t=9793) of the panel and reference panelists’ [**slides**](https://docs.google.com/presentation/d/1ZEqH9XGGLGps_wR4lILfb580twYkEzBA14Att63SWlM/edit?usp=sharing). 
 
+[![OR 2018 Livestream](http://collectionsasdata.github.io/or_2018.png)](https://youtu.be/2_3gc-_TBL8?t=9793)
+
 Hannah Frost opened the panel by introducing the concept of collections as data, providing an update on the Always Already Computational project, and acknowledging complementary efforts such as the Library of Congress Collections as Data meetings and COAR’s [**Next Generation Repositories report**](https://www.coar-repositories.org/files/NGR-Final-Formatted-Report-cc.pdf) (2017). 
 
 Helen Bailey spoke about the evolution of MIT’s attempts to provide API access to their collection of electronic theses and dissertations (ETDs), which were published in DSpace@MIT. She described the group’s tests of Fedora 4 in their initial work, and their development of [**Backrest**](https://github.com/MITLibraries/backrest), a backport to enable API REST access to their older version of DSpace. Bailey concluded by previewing ongoing work to support MIT’s [**API-first approach**](https://future-of-libraries.mit.edu/) to service engineering. For more on MIT’s Text and Data Mining project for ETDs, see Richard Rodgers’s Collections as Data [**Facet**](https://collectionsasdata.github.io/facet1/) and view Bailey’s [**presentation**](https://youtu.be/ENaPV2XmO9I?t=10651) to our 2018 Forum.
