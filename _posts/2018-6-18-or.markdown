@@ -13,7 +13,7 @@ Panelists **Helen Bailey** (MIT), **Kate Lynch** (UPenn), and **Mark Jordan** (S
 
 **How do today’s open source repository systems support or inhibit working with collections as data?**
 
-For the full experience [**watch a recording**](https://youtu.be/2_3gc-_TBL8?t=9793) of the panel and reference panelists’ [**slides**](https://docs.google.com/presentation/d/1ZEqH9XGGLGps_wR4lILfb580twYkEzBA14Att63SWlM/edit?usp=sharing). 
+For the full experience [**watch a recording**](https://youtu.be/2_3gc-_TBL8?t=9793) of the panel and reference panelist [**slides**](https://docs.google.com/presentation/d/1ZEqH9XGGLGps_wR4lILfb580twYkEzBA14Att63SWlM/edit?usp=sharing). 
 
 [![OR 2018 Livestream](http://collectionsasdata.github.io/or_2018.png)](https://youtu.be/2_3gc-_TBL8?t=9793)
 *livestream recording*
