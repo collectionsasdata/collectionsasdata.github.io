@@ -9,7 +9,7 @@ teaser: "Open Repositories 2018"
 
 The annual international Open Repositories conference offered an opportunity to hone in on the technical infrastructure and user-centered design behind collections as data efforts. On June 6, 2018 Always *Already Computational: Collections as Data* project team members **Hannah Frost** (Stanford University) and **Sarah Potvin** (Texas A&M University) convened a panel that featured collections as data work from MIT, the University of Pennsylvania, Simon Fraser University, the University of British Columbia, and the Max Planck Institute for Psycholinguistics. This set of featured projects included homegrown applications and evaluation and use of some of the most popular open source repository platforms: DSpace, Samvera/Fedora, and Islandora. 
 
-Panelists **Helen Bailey** (MIT), **Kate Lynch** (UPenn), and **Mark Jordan** (Simon Fraser) addressed the question: 
+Panelists **Helen Bailey** (MIT), **Kate Lynch** (UPenn), and **Mark Jordan** (Simon Fraser) addressed the following question: 
 
 **How do today’s open source repository systems support or inhibit working with collections as data?**
 
