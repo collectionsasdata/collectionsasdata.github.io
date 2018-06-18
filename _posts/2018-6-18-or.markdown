@@ -28,4 +28,5 @@ The five cases detailed by Bailey, Jordan, and Lynch offered insight into how re
 We hope that Open Repositories will continue to host fruitful exchanges about collections as data, and to frame community-supported work to make repository platforms more conducive to delivering collections as data.
 
 Sarah Potvin
+
 Hannah Frost
