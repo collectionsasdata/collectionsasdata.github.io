@@ -1,0 +1,48 @@
+---
+layout: article
+title:  "Shaping Humanities Data: Use, Reuse, and Paths Toward Computationally Amenable Cultural Heritage Collections"
+date:   2017-4-7 
+teaser: "Shaping Humanities Data CFP"
+---
+---
+
+**A Collections as Data organized DH2017 Pre-conference Workshop**
+
+Galleries, libraries, archives and museums (GLAMs) have been building digital collections for decades. Approaches developed to provide access to these collections often emulate analog research experiences that focus on supporting single object interactions and features like virtual "page" turners. While approaches of this kind have been very valuable for some kinds of scholarship, researchers and instructors seeking to leverage computation can find it difficult to work with collections developed in this vein. One barrier to developing approaches that better support these researchers is an incomplete understanding of how humanists, among others, are using and reusing cultural heritage data - and what they may need moving forward. [**Collections as Data**](https://collectionsasdata.github.io/) is one of a range of efforts encouraging cultural heritage organizations to develop collections and systems that are more amenable to emerging computational methods and tools. Beyond simply designing-to-fit, the movement towards computationally amenable collections provides an opportunity to  reframe, enrich, and/or contextualize collections in a manner that seeks to avoid replication of long standing biases inherent in cultural heritage collection practice. In this day-long [**Digital Humanities 2017**](https://dh2017.adho.org/) pre-conference workshop, we aim to engage directly with research and pedagogical practice that draws upon digital collection use. This workshop will ultimately inform the development of recommendations that aim to support cultural heritage community efforts to make collections available as data.
+
+**Proposals** 
+
+We seek proposals for talks, demonstrations (of projects, collections, tools, datasets, or other work), hands-on instruction, or walk-throughs that explore approaches and issues common to computational creation and/or use, and reuse, of digital collections. Proposals for talks can be brief (10 minutes) or extended (30 minutes). Similarly, proposals for demonstrations and hands-on instruction can be brief (30 minutes) or extended (60 minutes). We encourage submissions from all members of the DH community engaged with cultural heritage collection data, whether using data, preparing and stewarding data, or designing interfaces that enable discovery and access. We are invested in developing a program that reflects the international scope of DH work.
+
+Please submit your proposal (300 words) using the [**online form**](https://docs.google.com/forms/d/e/1FAIpQLSdclk_cCq8bXc5R5iEYFqiksCQrjm1b-5WPOKReglWk6plhQg/viewform?usp=sf_link) by **May 10, 2017**. Notification of acceptances will be sent out on or before **June 1, 2017**. The pre-conference workshop will take place **August 7, 2017**. For further information, or to check if your proposal will be appropriate, contact thomaspadilla@ucsb.edu. 
+
+**Workshop Organizers** 
+
+Thomas Padilla, University of California Santa Barbara
+
+Sarah Potvin, Texas A&M University
+
+Laurie Allen, University of Pennsylvania
+
+Stewart Varner, University of Pennsylvania
+
+**Workshop Program Committee**
+
+Harriett Green, University of Illinois at Urbana Champaign
+
+Inna Kizhner, Siberian Federal University
+
+Alberto Martinez, Colegio de México
+
+Ian Milligan, University of Waterloo
+
+Gimena Del Rio Riande, Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET)- University of Buenos Aires
+
+Laurent Romary, Inria & DARIAH
+
+Henriette Roued-Cunliffe, University of Copenhagen 
+
+Melissa Terras, University College London
+
+![library](https://collectionsasdata.github.io/images/dh2017.png)
+

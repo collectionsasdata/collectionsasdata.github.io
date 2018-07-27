@@ -1,0 +1,65 @@
+---
+layout: article
+title:  "A Release and a Call - Collections as Data Facets"
+date:   2017-8-9 
+teaser: "A Release and a Call - Collections as Data Facets"
+---
+---
+
+Consensus around what [**collections as data means**](https://collectionsasdata.github.io/statement/) and consequently what it takes to think about, prepare, provision, and support the use of them remains unsettled. However, lack of consensus has not stopped a range of creative activity in this space. Rather it might be said that the unsettled nature of collections as data fosters a generative space that encourages novel alignments of people, purpose, and resources. In an effort to collect and communicate collections as data activity, the Collections as Data project team presents **Collections as Data Facets.**
+
+A facet documents a collections as data implementation. An implementation consists of the people, services, practices, technologies, and infrastructure that aim to encourage computational use of cultural heritage collections. Each facet suggests practical entry points to engaging collections as data. The practical orientation of the questions that comprise the facet are directly informed by stakeholder experience. A facet covers the administrative case that was made to allow an implementation to take place, the people and roles involved in the implementation, workflows and code where applicable, assessment, and approaches to supporting use. **A growing collection of facets presents a multifaceted argument for the present and future state of collections as data.** 
+
+# Release
+
+[**Facet 1**](https://collectionsasdata.github.io/facet1/) - MIT Libraries Text and Data Mining
+* Richard Rodgers, Massachusetts Institute of Technology Libraries 
+
+[**Facet 2**](https://collectionsasdata.github.io/facet2/) - Carnegie Museum of Art Collection Data
+* David Newbury, Carnegie Museum of Art and Daniel Fowler, Open Knowledge International
+
+[**Facet 3**](https://collectionsasdata.github.io/facet3/) - CalCOFI Hydrobiological Survey of Monterey Bay
+* Amanda Whitmire, Stanford University Libraries 
+
+[**Facet 4**](https://collectionsasdata.github.io/facet4/) - American Philosophical Society Open Data Projects
+* Scott Ziegler, American Philosophical Society 
+
+[**Facet 5**](https://collectionsasdata.github.io/facet5/) - OPENN
+* Dot Porter, University of Pennsylvania Libraries
+
+[**Facet 6**](https://collectionsasdata.github.io/facet6/) - Chronicling America
+* Deborah Thomas, Nathan Yarasavage, and Robin Butterhof, Library of Congress
+
+[**Facet 7**](https://collectionsasdata.github.io/facet7/) - La Gaceta de la Habana
+* Paige Morgan, Elliot Williams, and Laura Capell, University of Miami Libraries
+
+[**Facet 8**](https://collectionsasdata.github.io/facet8/) - Text as Data Initiative
+* Zach Coble, Nick Wolf, and Scott Collard, New York University Libraries
+
+[**Facet 9**](https://collectionsasdata.github.io/facet9/) - #HackFSM
+* Mary Elings and Quinn Dombrowski, University of California Berkeley
+
+[**Facet 10**](https://collectionsasdata.github.io/facet10/) - HathiTrust Research Center Extracted Features Dataset
+* Eleanor Dickson, University of Illinois at Urbana Champaign
+
+[**Facet 11**](https://collectionsasdata.github.io/facet11/) - Beyond Penn's Treaty
+* Michael Zarafonetis and Sarah M. Horowitz, Haverford College
+
+[**Facet 12**](https://collectionsasdata.github.io/facet12/) - Ticha: A Digital Text Explorer for Colonial Zapotec
+* Brook Lillehaugen and Michael Zarafonetis, Haverford College 
+
+[**Facet 13**](https://collectionsasdata.github.io/facet13/) - Vanderbilt Library Legacy Data Projects
+* Veronica Ikeshoji-Orlati, Vanderbilt University
+
+[**Facet 14**](https://collectionsasdata.github.io/facet14/) - The Museum of Modern Art Exhibition Index
+* Jonathan Lill, MoMA Archives
+
+# Call for Submissions
+
+We welcome submission of additional facets. Facets can describe scalable, non-scalable, experimental, work in progress, and permanent collections as data implementations. Facets from a range of sources are encouraged, e.g. libraries, museums, archives, research centers, academic departments. 
+
+**The next round of facets are due by January 15, 2018.** 
+
+Submissions should follow the [Facet template](https://docs.google.com/document/d/1_i4DEggmZDzZ_JXIIZdwF7M4bMjR36W9Vk2pjZtCho0/edit). 
+
+Submit Facets to Thomas Padilla - thomas.padilla@unlv.edu

@@ -1,0 +1,31 @@
+# Site navigation links
+
+- title: Home
+  url: /
+  excerpt:
+  image:
+  
+- title: Team
+  url: /team/
+  excerpt:
+  image:
+  
+- title: Partners
+  url: /partners/
+  excerpt:
+  image:
+  
+- title: Events
+  url: /events/
+  excerpt:
+  image:
+  
+- title: Resources
+  url: /resources/
+  excerpt:
+  image:
+
+- title: Updates
+  url: /updates/
+  excerpt:
+  image:

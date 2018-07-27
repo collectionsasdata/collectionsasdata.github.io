@@ -1,0 +1,27 @@
+---
+layout: article
+title:  "Mellon Foundation Awards $750K Grant To Support Collections As Data"
+date:   2018-7-18 
+teaser: "Mellon Foundation Awards $750K Grant To Support Collections As Data"
+---
+---
+
+Thomas Padilla, Visiting Digital Research Services Librarian at the University of Nevada Las Vegas will lead **Collections as Data: Part to Whole**, a three-year national collections as data effort.  Thomas is joined by Co-Principal Investigator Hannah Scates Kettler, from the University of Iowa, Laurie Allen, from the University of Pennsylvania, and Stewart Varner, from the University of Pennsylvania. The effort is supported by a $750,000 grant from The Andrew W. Mellon Foundation.
+
+*“We are grateful to The Mellon Foundation for supporting this national collections as data effort,” said Maggie Farrell, Dean of the UNLV University Libraries. “This project will provide opportunities for institutions across the country to work together in this space for the benefit of our profession and research as a whole.”*
+
+Collections as Data: Part to Whole brings the question of how to implement cultural heritage collections as data together with the question of how to develop roles and services that optimally support their scholarly use.
+
+*“Data-driven scholarship and pedagogy increases the need for libraries, archives, and museums to develop and provide access to collections that are amenable to computational use,” said Padilla. “As we create more collections in this vein we must contend with the challenge of holistically supporting their use. This project will support a diverse set of partners as they explore these challenges together.”*
+
+Collections as Data: Part to Whole builds on the work of the Institute of Museum and Library Services-supported Always Already Computational: Collections as Data, a project initiated by several members of this effort in addition to Sarah Potvin, Texas A&M University; Hannah Frost, Stanford University; and Elizabeth Russey Roke, Emory University. Collections as Data: Part to Whole will be guided by an advisory group that includes Dan Cohen, Northeastern University; Greg Eow, Massachusetts Institute of Technology Libraries; Karen Estlund, Penn State University; Trevor Munoz, University of Maryland College Park; Barbara Rockenbach, Columbia University; and Erin O’Meara, Artefactual Systems.
+
+During the three-year project, Collections as Data: Part to Whole will facilitate the development of two cohorts. Cohort teams will receive funding to pursue collections as data projects. These teams will create new collections as data, develop collections as data implementation plans, and develop role and service plans that support collections as data use.
+
+*“In selecting institutions to participate in the regranting program, we will place emphasis on proposals that evidence holistic organizational approaches to supporting collections as data use. Competitive proposals will simultaneously evidence intention to create collections as data that have high research value and the capacity to bring underrepresented histories to light,” said Padilla.*
+
+A call for proposals will be released this August for the first of two cohorts.
+
+Collections as Data: Part to Whole marks the first Andrew W. Mellon Foundation funded program in the State of Nevada.
+
+Thomas Padilla (University of Nevada Las Vegas)

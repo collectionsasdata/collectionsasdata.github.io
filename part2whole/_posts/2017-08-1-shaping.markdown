@@ -1,0 +1,110 @@
+---
+layout: article
+title:  "Shaping Humanities Data at Digital Humanities 2017"
+date:   2017-8-2 
+teaser: "Shaping Humanities Data at Digital Humanities 2017"
+---
+---
+How can cultural heritage institutions develop and provide access to collections that are more readily amenable to computational use? How does a movement toward thinking about collections as data prompt an opportunity to reframe, enrich, and/or contextualize collections in a manner that expands use while avoiding replication of bias inherent in collection practice? The **Collections as Data** project presents **Shaping Humanities Data** as a venue to explore these questions at [Digital Humanities 2017]().
+
+Shaping Humanities Data features eleven talks and five demonstrations. Talks and demonstrations were solicited through a [CFP](https://collectionsasdata.github.io/dh2017/) and reviewed by an international program committee. The event also includes opportunities for discussion and workshopping [Collections as Data](https://collectionsasdata.github.io/statement/) frameworks. The workshop will inform the development of recommendations that aim to support cultural heritage collections as data efforts. 
+
+# Abstracts
+Abstracts are available [here](https://collectionsasdata.github.io/shapingdata_dh2017_abstracts/). 
+
+# Schedule 
+The schedule is available [here](https://collectionsasdata.github.io/shapingdata_dh2017_schedule/). 
+
+# Contributors 
+[Richard Marciano](https://ischool.umd.edu/faculty-staff/richard-marciano), University of Maryland
+
+[Gregory Jansen](https://ischool.umd.edu/faculty-staff/greg-jansen), University of Maryland
+
+[Nabil Kashyap](http://www.nabilk.com/), Swarthmore College
+
+[Lindsay Van Tine](http://lindsayvantine.org/), University of Pennsylvania
+
+[Daniel L. Schwartz](http://idhmc.tamu.edu/node/32), Texas A&M University
+
+[Deborah Leem](http://londonsmells.co.uk/contributors/), Wellcome Trust and University College London
+
+[Caitlin Pollock](http://www.ulib.iupui.edu/digitalscholarship/people/caitlinpollock), Indiana University-Purdue University Indianapolis
+
+[Heather Coates](http://www.ulib.iupui.edu/digitalscholarship/people/heathercoates), Indiana University-Purdue University Indianapolis
+
+[Miguel Escobar Varela](http://www.usp.nus.edu.sg/about/meet-our-professors/39-miguel-escobar-varela), National University of Singapore
+
+[Quinn Dombrowski](http://www.quinndombrowski.com/), University of California Berkeley
+
+[Tassie Gniady](http://www.tassieg.org/about/), Indiana University
+
+[John Simpson](https://www.computecanada.ca/research-portal/technical-support/national-experts/), Compute Canada
+
+[Megan Meredith-Lobay](http://ubc.academia.edu/MeganMeredithLobay), University of British Columbia
+
+[Rachel Di Cresce](https://its.library.utoronto.ca/staff/rachel-di-cresce), University of Toronto
+
+[Bridget Almas](http://www.perseus.tufts.edu/hopper/about/who/bridgetAlmas), Tufts University
+
+Frederik Baumgardt, Tufts University
+
+[Tobias Weigel](https://www.dkrz.de/about/Organisation/mitarbeiter/TobiasWeigel), DKRZ
+
+[Thomas Zastrow](http://www.mpcdf.mpg.de/about-mpcdf/organisation/staff/personalpage?email=thomas.zastrow@rzg.mpg.de), MPCDF
+
+[Cecily Marcus](https://www.linkedin.com/in/cecily-marcus-61946347), University of Minnesota Libraries
+
+[Tanya Clement](https://www.ischool.utexas.edu/people/person_details?PersonID=176), The University of Texas at Austin
+
+[Steve McLaughlin](http://www.stephenmclaughlin.net/), The University of Texas at Austin
+
+[Kathryn Tomasek](http://wheatoncollege.edu/faculty/profiles/kathryn-tomasek/), Wheaton College (Massachusetts)
+
+Georg Vogeler, Centre for Information Modeling - Austrian Centre for Digital Humanities, University of Graz
+
+[Brandon Locke](http://brandontlocke.com/), Michigan State University
+
+[Sarah Severson](https://www.mcgill.ca/library/librarians/sarah-severson), McGill University Library and Archive
+
+[Berenica Vejvoda](https://www.mcgill.ca/library/librarians/berenica-vejvoda), McGill University Library and Archive
+
+[Megan Senseney](https://ischool.illinois.edu/people/staff/megan-senseney), University of Illinois
+
+[Daniel G. Tracy](http://www.library.illinois.edu/people/bios/dtracy/), University of Illinois
+
+[Eleanor Dickson](https://www.linkedin.com/in/eleanor-dickson-66643a66), University of Illinois
+
+[Steven Claeyssens](https://www.kb.nl/organisatie/organisatie-en-beleid/afdelingen-en-organogram/collectiespecialisten-kb/steven-claeyssens), Koninklijke Bibliotheek
+
+# Workshop Organizers 
+Thomas Padilla, University of California Santa Barbara
+
+Sarah Potvin, Texas A&M University
+
+Laurie Allen, University of Pennsylvania
+
+Stewart Varner, University of Pennsylvania
+
+# Workshop Program Committee
+Harriett Green, University of Illinois at Urbana Champaign
+
+Inna Kizhner, Siberian Federal University
+
+Alberto Martinez, Colegio de México
+
+Ian Milligan, University of Waterloo
+
+Gimena Del Rio Riande, Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET)- University of Buenos Aires
+
+Laurent Romary, Inria and DARIAH
+
+Henriette Roued-Cunliffe, University of Copenhagen 
+
+Melissa Terras, University College London
+
+# Code of Conduct
+
+All project activity, both in person and online, aims to foster a welcoming and inclusive experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, nationality, or political beliefs. Harassment of participants will not be tolerated in any form. Harassment includes any behavior that participants find intimidating, hostile or offensive. Participants asked to stop any harassing behavior are expected to comply immediately. Please contact any member of the project team if you have concerns.
+
+---
+This effort is supported by the Institute of Museum and Library Services, [LG-73-16-0096-16](https://www.imls.gov/grants/awarded/LG-73-16-0096-16). 
