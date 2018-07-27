@@ -5,11 +5,11 @@ title:  "Collections as Data"
 ---
 ![library](images/library.png) ![library](images/library.png) ![library](images/library.png) ![library](images/library.png)
 
-[**Collections as Data: Part to Whole**](https://www.imls.gov/grants/awarded/LG-73-16-0096-16) is an Institute of Museum and Library Services supported effort that aims to foster a strategic approach to developing, describing, providing access to, and encouraging reuse of collections that support computationally-driven research and teaching in areas including but not limited to Digital Humanities, Public History, Digital History, data driven Journalism, Digital Social Science, and Digital Art History. 
+**Collections as Data: Part to Whole** is an Andrew W. Mellon Foundation supported effort that aims to foster the development of broadly viable models that support implementation *and* use of collections as data (see grant narrative). 
 
-Partners will iteratively refine and extend collections as data work across 6 disciplinary and professional conferences, synchronous and asynchronous online events, this site, and other venues as they arise. This effort will produce a collections as data framework, use cases and user stories, and functional requirements that support collections as data infrastructure development.
+Over a period of three years *Collections as Data: Part to Whole* will fund 12 teams, across two cohorts, to pursue these objectives. 
 
-Stay up to date with project activities and connect with others on collections as data related topics via the [**Collections as Data google group**](https://groups.google.com/forum/#!forum/collectionsasdata). 
+Cohort 1 Call for Proposals can be found [here]().
  
 # Contact  
 
@@ -21,4 +21,4 @@ All project activity, both in person and online, aims to foster a welcoming and 
 
 
 ---
-This effort is supported by The Andrew W. Mellon Foundation   
+This effort is supported by The Andrew W. Mellon Foundation.   
