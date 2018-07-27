@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: Always Already Computational - Collections as Data
-email: thomaspadilla@ucsb.edu
-description: An IMLS funded project to create a framework for dealing with collections as data.
+title: Collections as Data - Part to Whole
+email: tgpadillajr@gmail.com
+description: An Andrew W. Mellon Foundation funded project to explore development of models that guide collections as data implementation and use. 
 url: https://collectionsasdata.github.io # the base hostname & protocol for your site
 
 logo: # 120x120 px default image used for Twitter summary card
