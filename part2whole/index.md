@@ -5,7 +5,9 @@ title:  "Collections as Data"
 ---
 ![library](images/library.png) ![library](images/library.png) ![library](images/library.png) ![library](images/library.png)
 
-**Collections as Data: Part to Whole** is an Andrew W. Mellon Foundation supported effort that aims to foster the development of broadly viable models that support implementation *and* use of collections as data (see grant narrative). 
+Collections as Data: Part to Whole is an Andrew W. Mellon Foundation supported effort that aims to foster the development of broadly viable collections as data implementaiton and use models(see grant narrative). 
+
+A growing number of cultural heritage organizations have invested in the creation of collections that are amenable to computational use. Increasingly, the concept of [collections as data](https://collectionsasdata.github.io/statement/) is used to align efforts of this kind. In 2016, the Institute of Museum and Library Services supported Always Already Computational: Collections as Data, a broad collections as data advocacy effort. *Always Already Computational* demonstrated that cultural hertiage professionals readily saw the value of this work and were eager to expand the potential use of their collections. As interest in collections as data grows, broadly viable implementation and use models are needed in order organizationally integrate and sustain it. 
 
 Over a period of three years *Collections as Data: Part to Whole* will fund 12 teams, across two cohorts, to pursue these objectives. 
 
