@@ -5,7 +5,7 @@ title:  "Always Already Computational"
 ---
 ![library](images/library.png) ![library](images/library.png) ![library](images/library.png) ![library](images/library.png)
 
-⚡⚡⚡ *The Collections as Data: Part to Whole [**call for proposals**](https://collectionsasdata.github.io/part2whole/cfp/) is now live! Submission deadline is 10/31/2018.*⚡⚡⚡ 
+💡 *The Collections as Data: Part to Whole [**call for proposals**](https://collectionsasdata.github.io/part2whole/cfp/) is now live! Submission deadline is 10/31/2018.* 💡 
 
 [**Collections as Data**](https://www.imls.gov/grants/awarded/LG-73-16-0096-16) is an Institute of Museum and Library Services supported effort that aims to foster a strategic approach to developing, describing, providing access to, and encouraging reuse of collections that support computationally-driven research and teaching in areas including but not limited to Digital Humanities, Public History, Digital History, data driven Journalism, Digital Social Science, and Digital Art History. 
 
