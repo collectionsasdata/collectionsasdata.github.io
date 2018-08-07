@@ -9,11 +9,6 @@
   url: /team/
   excerpt:
   image:
-
-- title: Part2Whole
-  url: /part2whole/
-  excerpt:
-  image:
   
 - title: Partners
   url: /partners/
@@ -32,5 +27,10 @@
 
 - title: Updates
   url: /updates/
+  excerpt:
+  image:
+ 
+ - title: Part to Whole
+  url: /part2whole/
   excerpt:
   image:
