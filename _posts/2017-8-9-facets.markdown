@@ -55,7 +55,7 @@ A facet documents a collections as data implementation. An implementation consis
 * Jonathan Lill, MoMA Archives
 
 [**Facet 15**](https://collectionsasdata.github.io/facet15/) - Social Feed Manager
-* Laura Wrubel, Justin Littman, and Dan Kirchner, George Washington University
+* Laura Wrubel, Justin Littman, and Dan Kerchner, George Washington University
 
 # Call for Submissions
 
