@@ -54,6 +54,9 @@ A facet documents a collections as data implementation. An implementation consis
 [**Facet 14**](https://collectionsasdata.github.io/facet14/) - The Museum of Modern Art Exhibition Index
 * Jonathan Lill, MoMA Archives
 
+[**Facet 15**](https://collectionsasdata.github.io/facet15/) - Social Feed Manager
+* Laura Wrubel, Justin Littman, and Dan Kirchner, George Washington University
+
 # Call for Submissions
 
 We welcome submission of additional facets. Facets can describe scalable, non-scalable, experimental, work in progress, and permanent collections as data implementations. Facets from a range of sources are encouraged, e.g. libraries, museums, archives, research centers, academic departments. 
