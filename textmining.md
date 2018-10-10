@@ -18,9 +18,9 @@ Looking for patterns in text. Generally, text mining is done on a corpus of text
 
 See a few definitions and links:
 
-Drucker, Johanna. “Data Mining and Text Analysis | Introduction to Digital Humanities.” Accessed August 27, 2018. http://dh101.humanities.ucla.edu/?page_id=48.
+Drucker, Johanna. [Data Mining and Text Analysis | Introduction to Digital Humanities.](http://dh101.humanities.ucla.edu/?page_id=48) Accessed August 27, 2018.
 
-Underwood, Ted. “Seven Ways Humanists Are Using Computers to Understand Text.” The Stone and the Shell (blog), June 4, 2015. https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/.
+Underwood, Ted. [Seven Ways Humanists Are Using Computers to Understand Text.](https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/) The Stone and the Shell (blog), June 4, 2015. 
 
 ### Who uses it?
 
@@ -28,7 +28,7 @@ Text mining is used across humanities disciplines (notably language and literatu
 
 ### What form of data is most useful for this method?
 
-Generally, researchers doing text analysis will want to use plain text (i.e. machine readable, but without markup) in large quantities. They will also need accompanying metadata at a variety of scales. That is, sometimes they’ll want metadata at the book/article level, or at the collection level, and for some uses, it is helpful to have chapter or section level metadata. [In linguistic uses, analyses of texts sometimes include annotations down to the specific phoneme level, which make linguistic corpora less widely produced by libraries/archives/museums.]
+Generally, researchers doing text analysis will want to use plain text (i.e. machine readable, but without markup) in large quantities. They will also need accompanying metadata at a variety of scales. That is, sometimes they’ll want metadata at the book/article level, or at the collection level, and for some uses, it is helpful to have chapter or section level metadata. In linguistic uses, analyses of texts sometimes include annotations down to the specific phoneme level, which make linguistic corpora less widely produced by libraries/archives/museums.
 
 ### What might researchers explore when they’re text mining?
 
@@ -43,10 +43,10 @@ In some cases, people are interested in locations of words on pages (If an OCR p
 Most people who do text mining are using scripting languages like python or R.
 
 Beyond that, there are a few other tools, useful for analysis and teaching like:
-* Voyant - http://voyant-tools.org/
-* AntConc - http://www.laurenceanthony.net/software/antconc/ (See also Heather Froelich’s AntConc lesson on Programming Historian https://programminghistorian.org/en/lessons/corpus-analysis-with-antconc)
-* Topic Modeling Tool - https://github.com/senderle/topic-modeling-tool
-* Mallet - http://mallet.cs.umass.edu/
+* [Voyant](http://voyant-tools.org/)
+* [AntConc](http://www.laurenceanthony.net/software/antconc/) - (See also Heather Froelich’s AntConc lesson on [Programming Historian](https://programminghistorian.org/en/lessons/corpus-analysis-with-antconc))
+* [Topic Modeling Tool](https://github.com/senderle/topic-modeling-tool)
+* [Mallet](http://mallet.cs.umass.edu/) 
 
 ### Things to look out for when preparing collections for text mining
 
@@ -60,10 +60,10 @@ Multiple versions of texts can be a big source of frustration or confusion in te
 
 ### Examples of this method in use
 
-Underwood, Ted, David Bamman, and Sabrina Lee. “The Transformation of Gender in English-Language Fiction.” Journal of Cultural Analytics, 2018. https://doi.org/10.22148/16.019.
+Underwood, Ted, David Bamman, and Sabrina Lee. “The Transformation of Gender in English-Language Fiction.” Journal of Cultural Analytics, 2018. [https://doi.org/10.22148/16.019](https://doi.org/10.22148/16.019).
  
-Barron, Alexander T. J., Jenny Huang, Rebecca L. Spang, and Simon DeDeo. “Individuals, Institutions, and Innovation in the Debates of the French Revolution.” Proceedings of the National Academy of Sciences, April 17, 2018, 201717729. https://doi.org/10.1073/pnas.1717729115.
+Barron, Alexander T. J., Jenny Huang, Rebecca L. Spang, and Simon DeDeo. “Individuals, Institutions, and Innovation in the Debates of the French Revolution.” Proceedings of the National Academy of Sciences, April 17, 2018, 201717729. [https://doi.org/10.1073/pnas.1717729115](https://doi.org/10.1073/pnas.1717729115).
 
 ### Examples of collections optimized for this use
 
-“Documenting the American South: DocSouth Data.” Accessed August 27, 2018. https://docsouth.unc.edu/docsouthdata/.
+“Documenting the American South: DocSouth Data.” Accessed August 27, 2018. [https://docsouth.unc.edu/docsouthdata/](https://docsouth.unc.edu/docsouthdata/).
