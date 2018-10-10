@@ -10,7 +10,7 @@ title:  "CAD Methods Profiles"
 
 # Text Mining
 
-**Laurie Allen** and **Scott Enderle, University of Pennsylvania 
+Laurie Allen and Scott Enderle, University of Pennsylvania 
 
 ### What is it?
 
