@@ -11,7 +11,7 @@ title:  "Resources"
 
 [Collections as Data Persona Template](https://collectionsasdata.github.io/personas/)
 
-[Collections as Data Methods Profiles(https://collectionsasdata.github.io/methodsprofiles/)
+[Collections as Data Methods Profiles](https://collectionsasdata.github.io/methodsprofiles/)
 
 [Collections as Data Forum 1 Position Statements](https://github.com/collectionsasdata/collectionsasdata.github.io/raw/master/aac_positionstatements.pdf)
 
