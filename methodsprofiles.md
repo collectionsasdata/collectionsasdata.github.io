@@ -36,7 +36,7 @@ Laurie Allen will serve as editor for the first round of profiles, and we are lo
 
 We encourage profiles to be co-authored in this way, so that they reflect the combined expertise of disciplinary and library colleagues. 
  
-## CAD Methods Profile Template
+## Methods Profile Template
 
 ### What is it? 
 *A one or two sentence massive oversimplification of what it is followed by a few quotes from disciplinary definitions with links to other definitions.*
