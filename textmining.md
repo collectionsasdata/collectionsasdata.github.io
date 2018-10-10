@@ -68,3 +68,7 @@ Barron, Alexander T. J., Jenny Huang, Rebecca L. Spang, and Simon DeDeo. “Indi
 ### Examples of collections optimized for this use
 
 “Documenting the American South: DocSouth Data.” Accessed August 27, 2018. [https://docsouth.unc.edu/docsouthdata/](https://docsouth.unc.edu/docsouthdata/).
+
+[Facet 6 - Chronicling America](https://collectionsasdata.github.io/facet6/)
+
+[Facet 7 - La Gaceta De La Habana](https://collectionsasdata.github.io/facet7/)
