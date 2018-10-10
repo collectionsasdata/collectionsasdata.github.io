@@ -40,9 +40,10 @@ In some cases, people are interested in locations of words on pages (If an OCR p
 
 ### Common tools used for text mining
 
-Most people who do text mining are using scripting languages like python or R.
+Most people who do text mining are using scripting languages like Python or R.
 
 Beyond that, there are a few other tools, useful for analysis and teaching like:
+
 * [Voyant](http://voyant-tools.org/)
 * [AntConc](http://www.laurenceanthony.net/software/antconc/) - (See also Heather Froelich’s AntConc lesson on [Programming Historian](https://programminghistorian.org/en/lessons/corpus-analysis-with-antconc))
 * [Topic Modeling Tool](https://github.com/senderle/topic-modeling-tool)
