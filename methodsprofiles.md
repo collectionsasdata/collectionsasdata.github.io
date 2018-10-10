@@ -32,7 +32,7 @@ Laurie Allen will serve as editor for the first round of profiles, and we are lo
 
 **Your idea here** (needs volunteers!)
 
-**A note about drafting these profiles**  The first profile was created by Laurie Allen (a librarian with a deep understanding of libraries and a broad understanding of text mining) with massive help from Scott Enderle (a scholar with a deep understanding of text mining and a broad understanding of libraries). It is hard for someone with deep knowledge of the methods to generalize about it (though Scott is particularly awesome at that) and it is hard for someone without deep knowledge to know what the sticking points are that libraries should look out for. 
+*A note about drafting these profiles* - The first profile was created by Laurie Allen (a librarian with a deep understanding of libraries and a broad understanding of text mining) with massive help from Scott Enderle (a scholar with a deep understanding of text mining and a broad understanding of libraries). It is hard for someone with deep knowledge of the methods to generalize about it (though Scott is particularly awesome at that) and it is hard for someone without deep knowledge to know what the sticking points are that libraries should look out for. 
 
 We encourage profiles to be co-authored in this way, so that they reflect the combined expertise of disciplinary and library colleagues. 
  
