@@ -15,7 +15,7 @@ Laurie Allen will serve as editor for the first round of profiles, and we are lo
 [**Text Mining**](https://collectionsasdata.github.io/textmining/) 
 * Laurie Allen and Scott Enderle, University of Pennsylvania 
 
-**Network Analysis** (complete - pending review)
+**Network Analysis** (pending review)
 * Scott Weingart, Carnegie Mellon, Thomas Padilla, UNLV 
 
 ## Needed Profiles 
