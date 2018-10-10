@@ -18,7 +18,7 @@ Looking for patterns in text. Generally, text mining is done on a corpus of text
 
 See a few definitions and links:
 
-Drucker, Johanna. [Data Mining and Text Analysis | Introduction to Digital Humanities.](http://dh101.humanities.ucla.edu/?page_id=48) Accessed August 27, 2018.
+Drucker, Johanna. [Data Mining and Text Analysis - Introduction to Digital Humanities.](http://dh101.humanities.ucla.edu/?page_id=48) Accessed August 27, 2018.
 
 Underwood, Ted. [Seven Ways Humanists Are Using Computers to Understand Text.](https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/) The Stone and the Shell (blog), June 4, 2015. 
 
