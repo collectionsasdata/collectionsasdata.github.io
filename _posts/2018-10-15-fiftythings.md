@@ -1,8 +1,8 @@
 ---
 layout: article
-title:  "Getting Started: 50 things you can do"
+title:  "50 things you can do"
 date:   2018-10-15 
-teaser: "Getting Started: 50 things you can do"
+teaser: "50 things you can do"
 ---
 ---
 ![50 things](http://collectionsasdata.github.io/50things/50-things-stamp-logo.png)
