@@ -5,7 +5,7 @@ date:   2018-10-15
 teaser: "Getting Started: 50 things you can do"
 ---
 ---
-![50 things logo](50-things-stamp-logo.png)
+![50 things](50-things-stamp-logo.png)
 
 Over the course of our two-year project, members of the project team often heard a question along the lines of: “We’ve read the [Santa Barbara Statement](https://collectionsasdata.github.io/statement/), [the Facets](https://collectionsasdata.github.io/facets/), [the Personas](https://collectionsasdata.github.io/personas/). We’re subscribed to the [google group](https://groups.google.com/forum/#!forum/collectionsasdata). But where do we start? How do we move collections as data forward at our own institution?”
 
