@@ -13,7 +13,7 @@ title:  "Resources"
 
 [Methods Profiles](https://collectionsasdata.github.io/methodsprofiles/)
 
-[50 Things](https://collectionsasdata.github.io/50things)
+[50 Things](https://collectionsasdata.github.io/fiftythings/)
 
 [Collections as Data Forum 1 Position Statements](https://github.com/collectionsasdata/collectionsasdata.github.io/raw/master/aac_positionstatements.pdf)
 
