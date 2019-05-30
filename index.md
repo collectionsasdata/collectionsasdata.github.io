@@ -5,13 +5,13 @@ title:  "Always Already Computational"
 ---
 ![library](images/library.png) ![library](images/library.png) ![library](images/library.png) ![library](images/library.png)
 
-💡 *The Collections as Data: Part to Whole [**call for proposals**](https://collectionsasdata.github.io/part2whole/cfp/) is now live! Submission deadline is **10/31/2018**.* 💡 
+💡 *Always Already Computational: Collections as Data* has been succeeded by [**Collections as Data: Part to Whole**](https://collectionsasdata.github.io/part2whole/) The application period for the *Part to Whole* regranting and cohort opportunity will open **8/1/2019**.* 💡 
 
-[**Collections as Data**](https://www.imls.gov/grants/awarded/LG-73-16-0096-16) is an Institute of Museum and Library Services supported effort that aims to foster a strategic approach to developing, describing, providing access to, and encouraging reuse of collections that support computationally-driven research and teaching in areas including but not limited to Digital Humanities, Public History, Digital History, data driven Journalism, Digital Social Science, and Digital Art History. 
+---
 
-Partners will iteratively refine and extend collections as data work across 6 disciplinary and professional conferences, synchronous and asynchronous online events, this site, and other venues as they arise. This effort will produce a collections as data framework, use cases and user stories, and functional requirements that support collections as data infrastructure development.
+From 2016-2018,[**Always Already Computational: Collections as Data**](https://www.imls.gov/grants/awarded/LG-73-16-0096-16)  Always Already Computational: Collections as Data documented, iterated on, and shared current and potential approaches to developing cultural heritage collections that support computationally-driven research and teaching. With funding from the Institute of Museum and Library Services, Always Already Computational held two national forums, organized multiple workshops, shared project outcomes in disciplinary and professional conferences, and generated nearly a dozen deliverables meant to guide institutions as they consider development of collections as data.
 
-Stay up to date with project activities and connect with others on collections as data related topics via the [**Collections as Data google group**](https://groups.google.com/forum/#!forum/collectionsasdata). 
+The [**final report and project deliverables can be found here*](https://osf.io/mx6uk/wiki/home/). 
  
 # Contact  
 
@@ -23,4 +23,4 @@ All project activity, both in person and online, aims to foster a welcoming and 
 
 
 ---
-This effort is supported by the Institute of Museum and Library Services, [LG-73-16-0096-16](https://www.imls.gov/grants/awarded/LG-73-16-0096-16)  
+This effort was supported by the Institute of Museum and Library Services, [LG-73-16-0096-16](https://www.imls.gov/grants/awarded/LG-73-16-0096-16)  
