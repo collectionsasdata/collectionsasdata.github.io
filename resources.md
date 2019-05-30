@@ -3,6 +3,9 @@ layout: archive
 title:  "Resources"
 ---
 ---
+
+[Final report and project deliverables](https://osf.io/mx6uk/wiki/home/) 
+
 [The Santa Barbara Statement on Collections as Data](https://collectionsasdata.github.io/statement/) - [v.1](https://collectionsasdata.github.io/statementv1/),[v.2](https://collectionsasdata.github.io/statement/)
 
 [Collections as Data Facets](https://collectionsasdata.github.io/facets/)
