@@ -7,7 +7,7 @@ title:  "Always Already Computational"
 
 ---
 
-💡 *Always Already Computational: Collections as Data* has been succeeded by *[**Collections as Data: Part to Whole**](https://collectionsasdata.github.io/part2whole/)*. The application period for the *Part to Whole* regranting and cohort opportunity opens **8/2019**.💡 
+💡 *Always Already Computational: Collections as Data* has been succeeded by *[**Collections as Data: Part to Whole**](https://collectionsasdata.github.io/part2whole/)*. The application period for the *Part to Whole* regranting and cohort opportunity opened **8/1/2019**. $300,000 will be awarded to six teams in this round.💡 
 
 From 2016-2018 *Always Already Computational: Collections as Data* documented, iterated on, and shared current and potential approaches to developing cultural heritage collections that support computationally-driven research and teaching. With funding from the Institute of Museum and Library Services, Always Already Computational held two national forums, organized multiple workshops, shared project outcomes in disciplinary and professional conferences, and generated nearly a dozen deliverables meant to guide institutions as they consider development of collections as data.  
 
