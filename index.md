@@ -15,7 +15,7 @@ The final report and project deliverables can be [**found here**](https://osf.io
  
 # Contact  
 
-Thomas Padilla, <thomas.padilla@unlv.edu>
+Thomas Padilla, <tpadilla@archive.org>
 
 # Code of Conduct
 
