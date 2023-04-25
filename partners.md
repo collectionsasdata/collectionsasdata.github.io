@@ -47,7 +47,7 @@ City University of New York
 Assistant Scientist, School of Informatics, Computer, and Engineering, Indiana University<br/>
 Assistant Director, Data to Insight Center, Indiana University
 
-[**Mark Matienzo**](https://matienzo.org/)<br/>
+[**María Matienzo**](https://matienzo.org/)<br/>
 Collaboration & Interoperability Architect, Stanford University
 
 [**Jake Orlowitz**](https://www.linkedin.com/in/jake-orlowitz-58321656/)<br/>
