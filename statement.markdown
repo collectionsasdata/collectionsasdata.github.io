@@ -3,7 +3,7 @@ layout: archive
 title:  "The Santa Barbara Statement on Collections as Data"
 ---
 
-*Version 2*
+*This statement has been succeeded by the [_Vancouver Statement on Collections as Data._](https://zenodo.org/records/8342171)*
 
 *The Santa Barbara Statement on Collections as Data was written by the Institute of Museum and Library Services supported Always Already Computational: Collections as Data project team. The [first version](https://collectionsasdata.github.io/statementv1/) is based on the collaborative work of [participants](https://collectionsasdata.github.io/partners/) at the first [Collections as Data National Forum](https://collectionsasdata.github.io/nominations/) (UC Santa Barbara, March 1-3 2017). After its release, the team gathered comments from the Hypothesis web annotation tool and sought additional feedback across a [series of conversations and workshops]( https://collectionsasdata.github.io/events/) (April 2017 - April 2018). The current version of the statement was revised based on that community feedback, especially the close, directed feedback provided by workshop participants at the Digital Library Federation Forum 2017.*
 
